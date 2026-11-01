@@ -1,0 +1,2560 @@
+{
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Chopped Sandwiches",
+   "line": "Every sub, club and BLT you love, run through the knife so every bite gets everything.",
+   "color": "#C8321F",
+   "intro": [
+    "Here is the idea. Take everything that goes on a sandwich, pile it on the board, and chop it together until the pieces are small enough to share a bite. Then dress it in the bowl and put it back in the roll. Nothing falls out, nothing slides, and the last bite tastes exactly like the first one."
+   ],
+   "count": 12,
+   "recipes": [
+    {
+     "slug": "italian-chopped-sub",
+     "title": "Italian Chopped Sub",
+     "featured": true
+    },
+    {
+     "slug": "lox-bagel-chop",
+     "title": "Lox Bagel Chop",
+     "featured": false
+    },
+    {
+     "slug": "turkey-club-chop",
+     "title": "Turkey Club Chop",
+     "featured": true
+    },
+    {
+     "slug": "muffuletta-chop",
+     "title": "Muffuletta Chop",
+     "featured": false
+    },
+    {
+     "slug": "banh-mi-chop",
+     "title": "Banh Mi Chop",
+     "featured": true
+    },
+    {
+     "slug": "caprese-chop",
+     "title": "Caprese Chop",
+     "featured": false
+    },
+    {
+     "slug": "greek-pita-chop",
+     "title": "Greek Pita Chop",
+     "featured": false
+    },
+    {
+     "slug": "roast-beef-and-horseradish-chop",
+     "title": "Roast Beef and Horseradish Chop",
+     "featured": false
+    },
+    {
+     "slug": "veggie-hummus-chop",
+     "title": "Veggie Hummus Chop",
+     "featured": false
+    },
+    {
+     "slug": "buffalo-chicken-chop",
+     "title": "Buffalo Chicken Chop",
+     "featured": false
+    },
+    {
+     "slug": "chopped-blt",
+     "title": "Chopped BLT",
+     "featured": true
+    },
+    {
+     "slug": "cubano-style-chop",
+     "title": "Cubano-Style Chop",
+     "featured": false
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "The Classics",
+   "line": "The salads everyone knows, chopped the way they should have been all along.",
+   "color": "#1F6F5C",
+   "intro": [
+    "Most of these serve 2 as a meal or 4 as a side. Each dressing is whisked in the bottom of the bowl; fuller versions live in The Dressing Room."
+   ],
+   "count": 16,
+   "recipes": [
+    {
+     "slug": "the-chopper",
+     "title": "The Chopper",
+     "featured": true
+    },
+    {
+     "slug": "the-wedge",
+     "title": "The Wedge",
+     "featured": false
+    },
+    {
+     "slug": "cobb-chop",
+     "title": "Cobb Chop",
+     "featured": true
+    },
+    {
+     "slug": "greek-village-salad",
+     "title": "Greek Village Salad",
+     "featured": false
+    },
+    {
+     "slug": "antipasto-salad",
+     "title": "Antipasto Salad",
+     "featured": false
+    },
+    {
+     "slug": "massaged-kale-with-lemon-and-parmesan",
+     "title": "Massaged Kale with Lemon and Parmesan",
+     "featured": false
+    },
+    {
+     "slug": "shaved-brussels-sprouts-with-pecorino",
+     "title": "Shaved Brussels Sprouts with Pecorino",
+     "featured": false
+    },
+    {
+     "slug": "shaved-fennel-and-orange",
+     "title": "Shaved Fennel and Orange",
+     "featured": false
+    },
+    {
+     "slug": "waldorf",
+     "title": "Waldorf",
+     "featured": false
+    },
+    {
+     "slug": "southwest-chop",
+     "title": "Southwest Chop",
+     "featured": true
+    },
+    {
+     "slug": "salami-chickpea-and-provolone-chop",
+     "title": "Salami, Chickpea and Provolone Chop",
+     "featured": false
+    },
+    {
+     "slug": "harvest-chop",
+     "title": "Harvest Chop",
+     "featured": false
+    },
+    {
+     "slug": "steakhouse-chop",
+     "title": "Steakhouse Chop",
+     "featured": true
+    },
+    {
+     "slug": "spinach-strawberry-and-goat-cheese",
+     "title": "Spinach, Strawberry and Goat Cheese",
+     "featured": false
+    },
+    {
+     "slug": "crunchy-garden-chop-with-ranch",
+     "title": "Crunchy Garden Chop with Ranch",
+     "featured": false
+    },
+    {
+     "slug": "no-raw-egg-caesar",
+     "title": "No-Raw-Egg Caesar",
+     "featured": false
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "The Deli Case",
+   "line": "Tuna, chicken, egg and their friends. The deli counter, minus the line.",
+   "color": "#2F5D8A",
+   "intro": [
+    "Every recipe here can be eaten on bread, on crackers, in lettuce cups or straight from the bowl."
+   ],
+   "count": 14,
+   "recipes": [
+    {
+     "slug": "classic-chicken-salad",
+     "title": "Classic Chicken Salad",
+     "featured": true
+    },
+    {
+     "slug": "curry-chicken-salad-with-grapes-and-cashews",
+     "title": "Curry Chicken Salad with Grapes and Cashews",
+     "featured": false
+    },
+    {
+     "slug": "dill-pickle-chicken-salad",
+     "title": "Dill Pickle Chicken Salad",
+     "featured": false
+    },
+    {
+     "slug": "smashed-chickpea-salad",
+     "title": "Smashed Chickpea Salad",
+     "featured": false
+    },
+    {
+     "slug": "egg-salad",
+     "title": "Egg Salad",
+     "featured": true
+    },
+    {
+     "slug": "canned-salmon-with-dill",
+     "title": "Canned Salmon with Dill",
+     "featured": false
+    },
+    {
+     "slug": "italian-tuna-and-white-bean-salad",
+     "title": "Italian Tuna and White Bean Salad",
+     "featured": true
+    },
+    {
+     "slug": "shrimp-louie-chop",
+     "title": "Shrimp Louie Chop",
+     "featured": true
+    },
+    {
+     "slug": "smoked-trout-with-apple-and-horseradish",
+     "title": "Smoked Trout with Apple and Horseradish",
+     "featured": false
+    },
+    {
+     "slug": "ham-salad",
+     "title": "Ham Salad",
+     "featured": false
+    },
+    {
+     "slug": "pimento-cheese-chop",
+     "title": "Pimento Cheese Chop",
+     "featured": false
+    },
+    {
+     "slug": "seafood-salad-with-imitation-crab",
+     "title": "Seafood Salad with Imitation Crab",
+     "featured": false
+    },
+    {
+     "slug": "sardine-salad-with-lemon-and-parsley",
+     "title": "Sardine Salad with Lemon and Parsley",
+     "featured": false
+    },
+    {
+     "slug": "tuna-with-onion-celery-and-pickles",
+     "title": "Tuna with Onion, Celery and Pickles",
+     "featured": false
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Around the World",
+   "line": "Salads, salsas and bowls from everywhere, built with a board and a bowl.",
+   "color": "#B7791F",
+   "intro": [
+    "These are home-kitchen versions made with supermarket ingredients, and each headnote says where the dish comes from."
+   ],
+   "count": 14,
+   "recipes": [
+    {
+     "slug": "pico-de-gallo-and-chunky-guacamole",
+     "title": "Pico de Gallo and Chunky Guacamole",
+     "featured": true
+    },
+    {
+     "slug": "street-corn-chop",
+     "title": "Street Corn Chop",
+     "featured": true
+    },
+    {
+     "slug": "cowboy-caviar",
+     "title": "Cowboy Caviar",
+     "featured": true
+    },
+    {
+     "slug": "shrimp-ceviche-style-salad",
+     "title": "Shrimp Ceviche-Style Salad",
+     "featured": false
+    },
+    {
+     "slug": "tabbouleh",
+     "title": "Tabbouleh",
+     "featured": false
+    },
+    {
+     "slug": "fattoush",
+     "title": "Fattoush",
+     "featured": true
+    },
+    {
+     "slug": "shirazi-salad",
+     "title": "Shirazi Salad",
+     "featured": false
+    },
+    {
+     "slug": "kachumber",
+     "title": "Kachumber",
+     "featured": false
+    },
+    {
+     "slug": "balela",
+     "title": "Balela",
+     "featured": false
+    },
+    {
+     "slug": "smashed-cucumbers-with-chili-crisp",
+     "title": "Smashed Cucumbers with Chili Crisp",
+     "featured": false
+    },
+    {
+     "slug": "thai-style-peanut-crunch-slaw",
+     "title": "Thai-Style Peanut Crunch Slaw",
+     "featured": false
+    },
+    {
+     "slug": "vietnamese-chicken-and-cabbage-salad",
+     "title": "Vietnamese Chicken and Cabbage Salad",
+     "featured": false
+    },
+    {
+     "slug": "mandarin-chicken-crunch-chop",
+     "title": "Mandarin Chicken Crunch Chop",
+     "featured": false
+    },
+    {
+     "slug": "cucumber-wrapped-sushi-rolls",
+     "title": "Cucumber-Wrapped Sushi Rolls",
+     "featured": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Bring Your Own Protein",
+   "line": "Steak, chicken and shrimp arrive cooked. You do the rest.",
+   "color": "#8A2E2E",
+   "intro": [
+    "**The deal.** This book does not cook. When a recipe needs steak or chicken, it arrives cooked, and how it got that way is your business: last night's leftovers, the supermarket hot bar, a rotisserie chicken, a bag of grilled chicken strips, a tub of carnitas, a bag of cooked shrimp, or something a friend took off the grill. If you want to cook it yourself, the cheat sheet at the back of the book has times and safe temperatures. Cold or room temperature is fine for every recipe here."
+   ],
+   "count": 6,
+   "recipes": [
+    {
+     "slug": "steak-mexican-bowl",
+     "title": "Steak Mexican Bowl",
+     "featured": true
+    },
+    {
+     "slug": "chicken-fajita-chop-bowl",
+     "title": "Chicken Fajita Chop Bowl",
+     "featured": true
+    },
+    {
+     "slug": "bbq-chicken-chop",
+     "title": "BBQ Chicken Chop",
+     "featured": false
+    },
+    {
+     "slug": "chicken-souvlaki-bowl",
+     "title": "Chicken Souvlaki Bowl",
+     "featured": false
+    },
+    {
+     "slug": "shrimp-taco-chop",
+     "title": "Shrimp Taco Chop",
+     "featured": true
+    },
+    {
+     "slug": "sliced-steak-over-the-steakhouse-chop",
+     "title": "Sliced Steak over the Steakhouse Chop",
+     "featured": false
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Bring Your Own Carbs",
+   "line": "Pasta, noodles and rice, already cooked, ready for the chop.",
+   "color": "#5A4A8A",
+   "intro": [
+    "**The deal.** Same rule as the last chapter: the pasta and rice arrive cooked. Leftovers are perfect, and cold is what you want. For rice, a microwave pouch (about 2 cups) counts as arriving cooked; so does takeout rice. For pasta, one 1 lb box cooked by anyone makes about 8 cups, which is exactly enough for two of the pasta recipes here. The cheat sheet at the back covers how to cook both.",
+    "**Sushi rice seasoning, used in all three rice recipes.** For every 2 cups of cooked rice, stir together 1 tbsp rice vinegar, 1 tsp sugar and 1/4 tsp salt until dissolved, then fold it gently through the rice."
+   ],
+   "count": 6,
+   "recipes": [
+    {
+     "slug": "italian-deli-pasta-salad",
+     "title": "Italian Deli Pasta Salad",
+     "featured": true
+    },
+    {
+     "slug": "tuna-macaroni-salad",
+     "title": "Tuna Macaroni Salad",
+     "featured": false
+    },
+    {
+     "slug": "sesame-noodle-chop",
+     "title": "Sesame Noodle Chop",
+     "featured": false
+    },
+    {
+     "slug": "california-roll-bowl",
+     "title": "California Roll Bowl",
+     "featured": true
+    },
+    {
+     "slug": "spicy-tuna-bowl",
+     "title": "Spicy Tuna Bowl",
+     "featured": false
+    },
+    {
+     "slug": "hand-roll-night",
+     "title": "Hand Roll Night",
+     "featured": true
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Slaws, Pickles and Sides",
+   "line": "Crunchy, sour and quick. The sides that make the sandwich.",
+   "color": "#55602C",
+   "intro": [],
+   "count": 10,
+   "recipes": [
+    {
+     "slug": "creamy-coleslaw",
+     "title": "Creamy Coleslaw",
+     "featured": true
+    },
+    {
+     "slug": "apple-fennel-vinegar-slaw",
+     "title": "Apple-Fennel Vinegar Slaw",
+     "featured": false
+    },
+    {
+     "slug": "bowl-pickles",
+     "title": "Bowl Pickles",
+     "featured": true
+    },
+    {
+     "slug": "broccoli-crunch-salad",
+     "title": "Broccoli Crunch Salad",
+     "featured": true
+    },
+    {
+     "slug": "carrot-raisin-salad",
+     "title": "Carrot-Raisin Salad",
+     "featured": false
+    },
+    {
+     "slug": "three-bean-salad",
+     "title": "Three-Bean Salad",
+     "featured": false
+    },
+    {
+     "slug": "cucumber-dill-salad",
+     "title": "Cucumber-Dill Salad",
+     "featured": false
+    },
+    {
+     "slug": "celery-and-parmesan",
+     "title": "Celery and Parmesan",
+     "featured": false
+    },
+    {
+     "slug": "marinated-tomatoes",
+     "title": "Marinated Tomatoes",
+     "featured": true
+    },
+    {
+     "slug": "lime-cilantro-taco-slaw",
+     "title": "Lime-Cilantro Taco Slaw",
+     "featured": false
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Salsas, Dips and Toppers",
+   "line": "Spoon it on, scoop it up, or eat it off the board.",
+   "color": "#D8342A",
+   "intro": [],
+   "count": 14,
+   "recipes": [
+    {
+     "slug": "tomato-bruschetta-topping",
+     "title": "Tomato Bruschetta Topping",
+     "featured": false
+    },
+    {
+     "slug": "mango-salsa",
+     "title": "Mango Salsa",
+     "featured": false
+    },
+    {
+     "slug": "pineapple-jalapeno-salsa",
+     "title": "Pineapple-Jalapeno Salsa",
+     "featured": false
+    },
+    {
+     "slug": "raw-tomatillo-salsa",
+     "title": "Raw Tomatillo Salsa",
+     "featured": false
+    },
+    {
+     "slug": "cucumber-avocado-salsa",
+     "title": "Cucumber-Avocado Salsa",
+     "featured": false
+    },
+    {
+     "slug": "peach-and-basil-salsa",
+     "title": "Peach and Basil Salsa",
+     "featured": false
+    },
+    {
+     "slug": "pickle-de-gallo",
+     "title": "Pickle de Gallo",
+     "featured": false
+    },
+    {
+     "slug": "chunky-pantry-salsa",
+     "title": "Chunky Pantry Salsa",
+     "featured": false
+    },
+    {
+     "slug": "olive-tapenade",
+     "title": "Olive Tapenade",
+     "featured": false
+    },
+    {
+     "slug": "greek-feta-salsa",
+     "title": "Greek Feta Salsa",
+     "featured": false
+    },
+    {
+     "slug": "chicago-style-giardiniera-relish",
+     "title": "Chicago-Style Giardiniera Relish",
+     "featured": false
+    },
+    {
+     "slug": "chimichurri",
+     "title": "Chimichurri",
+     "featured": false
+    },
+    {
+     "slug": "italian-salsa-verde",
+     "title": "Italian Salsa Verde",
+     "featured": false
+    },
+    {
+     "slug": "fresh-cranberry-orange-relish",
+     "title": "Fresh Cranberry-Orange Relish",
+     "featured": false
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "The Dressing Room",
+   "line": "Fourteen dressings and six sauces. The whole flavor system in one chapter.",
+   "color": "#8A5A12",
+   "intro": [],
+   "count": 20,
+   "recipes": [
+    {
+     "slug": "red-wine-vinaigrette",
+     "title": "Red Wine Vinaigrette",
+     "featured": false
+    },
+    {
+     "slug": "sub-shop-oil-and-vinegar",
+     "title": "Sub-Shop Oil and Vinegar",
+     "featured": false
+    },
+    {
+     "slug": "balsamic-vinaigrette",
+     "title": "Balsamic Vinaigrette",
+     "featured": false
+    },
+    {
+     "slug": "greek-lemon-oregano",
+     "title": "Greek Lemon-Oregano",
+     "featured": false
+    },
+    {
+     "slug": "honey-mustard",
+     "title": "Honey Mustard",
+     "featured": false
+    },
+    {
+     "slug": "cilantro-lime",
+     "title": "Cilantro-Lime",
+     "featured": false
+    },
+    {
+     "slug": "sesame-ginger",
+     "title": "Sesame-Ginger",
+     "featured": false
+    },
+    {
+     "slug": "no-raw-egg-caesar-dressing",
+     "title": "No-Raw-Egg Caesar Dressing",
+     "featured": false
+    },
+    {
+     "slug": "ranch",
+     "title": "Ranch",
+     "featured": false
+    },
+    {
+     "slug": "blue-cheese",
+     "title": "Blue Cheese",
+     "featured": false
+    },
+    {
+     "slug": "green-goddess",
+     "title": "Green Goddess",
+     "featured": false
+    },
+    {
+     "slug": "creamy-italian",
+     "title": "Creamy Italian",
+     "featured": false
+    },
+    {
+     "slug": "louie-dressing",
+     "title": "Louie Dressing",
+     "featured": false
+    },
+    {
+     "slug": "peanut-lime",
+     "title": "Peanut-Lime",
+     "featured": false
+    },
+    {
+     "slug": "garlic-aioli",
+     "title": "Garlic Aioli",
+     "featured": false
+    },
+    {
+     "slug": "spicy-mayo",
+     "title": "Spicy Mayo",
+     "featured": false
+    },
+    {
+     "slug": "yum-yum-sauce",
+     "title": "Yum Yum Sauce",
+     "featured": false
+    },
+    {
+     "slug": "chipotle-lime-mayo",
+     "title": "Chipotle-Lime Mayo",
+     "featured": false
+    },
+    {
+     "slug": "hot-honey",
+     "title": "Hot Honey",
+     "featured": false
+    },
+    {
+     "slug": "horseradish-cream",
+     "title": "Horseradish Cream",
+     "featured": false
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Sweet Chops",
+   "line": "Fruit, a knife, and something sweet to finish.",
+   "color": "#C97AA2",
+   "intro": [],
+   "count": 6,
+   "recipes": [
+    {
+     "slug": "watermelon-feta-and-mint",
+     "title": "Watermelon, Feta and Mint",
+     "featured": true
+    },
+    {
+     "slug": "fruit-chop-with-lime-honey-and-chili",
+     "title": "Fruit Chop with Lime, Honey and Chili",
+     "featured": true
+    },
+    {
+     "slug": "citrus-and-mint",
+     "title": "Citrus and Mint",
+     "featured": false
+    },
+    {
+     "slug": "melon-and-prosciutto",
+     "title": "Melon and Prosciutto",
+     "featured": false
+    },
+    {
+     "slug": "apple-nachos",
+     "title": "Apple Nachos",
+     "featured": true
+    },
+    {
+     "slug": "strawberry-shortcake-chop",
+     "title": "Strawberry Shortcake Chop",
+     "featured": false
+    }
+   ]
+  }
+ ],
+ "recipes": [
+  {
+   "slug": "italian-chopped-sub",
+   "title": "Italian Chopped Sub",
+   "chapter": 1,
+   "tagline": "Every bite gets everything. No bite left behind.",
+   "time": "15 MIN",
+   "serves": "SERVES 2 (DOUBLE FOR 4)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": true,
+   "heat": 1,
+   "gist": "A sub shop classic, except the whole sandwich gets chopped together on the board before it goes in the roll. No more bites that are all lettuce or all salami. The dressing soaks into everything, so build it and eat it right away while the lettuce still crunches.",
+   "move_title": "the board chop",
+   "move": "Both hands on the knife, tip down, rock through the pile and turn it as you go. See Knife School.",
+   "lineup": [
+    "2 tbsp mayonnaise",
+    "1 tbsp red wine vinegar",
+    "2 tsp olive oil",
+    "1/2 tsp dried oregano",
+    "1 small romaine heart, quartered",
+    "1 plum tomato, sliced thick",
+    "1 shallot, sliced thin",
+    "1/4 cup pepperoncini slices",
+    "2 oz Genoa salami",
+    "2 oz capicola or deli ham",
+    "2 oz provolone",
+    "Salt and pepper",
+    "2 sub rolls, split"
+   ],
+   "steps": [
+    "Whisk the mayonnaise, vinegar, oil and oregano in the bottom of the bowl.",
+    "Lay the romaine, tomato, shallot and pepperoncini on the board. Stack the salami, capicola and provolone on top.",
+    "Pile everything together and run your knife through it, turning the pile, until every piece is about the same size.",
+    "Scrape the pile into the bowl and toss until everything is coated.",
+    "Taste, then add salt and pepper until it tastes right to you.",
+    "Pack into the rolls and eat right away."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Skip the roll: eat it as a bowl, or scoop it into romaine leaves."
+    ],
+    [
+     "Future You",
+     "Chop the meats, cheese, shallot and pepperoncini up to 2 days ahead. Add romaine, tomato and dressing at the last minute."
+    ],
+    [
+     "Show Off",
+     "Add 1/4 cup chopped giardiniera or a handful of fresh basil."
+    ],
+    [
+     "Flavor Bomb",
+     "Stir 1 tbsp of 'nduja or Calabrian chili paste into the dressing, or swipe the rolls with Garlic Aioli."
+    ],
+    [
+     "Heat Dial",
+     "Mild: roasted red peppers for the pepperoncini. Hot: hot giardiniera and red pepper flakes."
+    ],
+    [
+     "Keep Your Fingers",
+     "Tomato first, flat side down. A slippery tomato is the most common way to meet the knife."
+    ]
+   ]
+  },
+  {
+   "slug": "chopped-blt",
+   "title": "Chopped BLT",
+   "chapter": 1,
+   "tagline": "Three letters. One pile. No notes.",
+   "time": "10 MIN",
+   "serves": "SERVES 2 (DOUBLE FOR 4)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 1,
+   "gist": "The BLT has one flaw: the tomato slides out on the second bite. Chopped, that problem disappears, and the bacon gets into every mouthful. Seed the tomatoes so the filling stays creamy, not soupy. Fully cooked bacon from the package keeps this inside the no-cook rule.",
+   "move_title": "shredding lettuce",
+   "move": "Halve the romaine heart lengthwise, lay it flat side down, and slice across into thin shreds. See Knife School.",
+   "lineup": [
+    "2 tbsp mayonnaise",
+    "1 tsp lemon juice",
+    "1 small romaine heart, shredded",
+    "2 plum tomatoes, seeded and diced",
+    "4 slices fully cooked bacon, rough chopped",
+    "Salt and plenty of black pepper",
+    "2 soft rolls, split"
+   ],
+   "steps": [
+    "Whisk the mayonnaise and lemon juice in the bottom of the bowl.",
+    "Add the lettuce, tomatoes and bacon.",
+    "Toss until everything is coated.",
+    "Taste, then add salt and pepper until it tastes right to you. Go heavy on the pepper.",
+    "Pack into the rolls and eat right away."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Skip the roll: spoon it into large iceberg or butter lettuce leaves."
+    ],
+    [
+     "Beef It Up",
+     "Add 3 oz of chopped deli turkey or 1 chopped hard-boiled egg."
+    ],
+    [
+     "Future You",
+     "Chop the bacon and seed the tomatoes a day ahead. Shred the lettuce and dress it at the last minute."
+    ],
+    [
+     "Show Off",
+     "Add a diced avocado and call it a BLAT."
+    ],
+    [
+     "Flavor Bomb",
+     "Stir 1 tsp of 'nduja into the mayonnaise, use pickled tomatoes in winter, or swap the mayonnaise for Garlic Aioli."
+    ],
+    [
+     "Heat Dial",
+     "Mild: as written. Warm: Chipotle-Lime Mayo in place of plain. Hot: add pickled jalapenos and a drizzle of Hot Honey over the bacon."
+    ],
+    [
+     "Psst",
+     "Package bacon gets crisper after 20 seconds in a microwave, if you have one handy. It is fine without."
+    ]
+   ]
+  },
+  {
+   "slug": "banh-mi-chop",
+   "title": "Banh Mi Chop",
+   "chapter": 1,
+   "tagline": "Crunchy, spicy, tangy, and nobody had to turn on anything.",
+   "time": "20 MIN",
+   "serves": "SERVES 4",
+   "level": "CHEF'S KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL, PEELER",
+   "protein": true,
+   "heat": 2,
+   "gist": "The Vietnamese sandwich runs on contrast: rich meat, sharp quick pickles, cool cucumber, hot chile, fresh herbs. The pickles take ten minutes in the bowl while you chop everything else. A whole rotisserie chicken stands in for the roast pork, which is why this one serves 4.",
+   "move_title": "matchsticks",
+   "move": "Peel the carrot into wide ribbons, stack the ribbons, and slice the stack lengthwise into thin sticks. See Knife School.",
+   "lineup": [
+    "2 carrots, cut into matchsticks",
+    "6 radishes, sliced thin",
+    "3 tbsp rice vinegar",
+    "2 tsp sugar",
+    "1/2 tsp salt",
+    "1/4 cup mayonnaise",
+    "1 tbsp sriracha, or to taste",
+    "2 tsp soy sauce",
+    "1 rotisserie chicken, meat pulled from the bone (about 4 cups)",
+    "2 Persian cucumbers, sliced thin",
+    "1 jalapeno, seeded and sliced thin",
+    "1 small bunch fresh cilantro, leaves and tender stems",
+    "4 small baguette rolls, split"
+   ],
+   "steps": [
+    "Toss the carrot, radishes, vinegar, sugar and salt in the bowl. Let sit 10 minutes while you prep the rest.",
+    "Lift the pickles onto the board, leaving the liquid in the bowl.",
+    "Whisk the mayonnaise, sriracha and soy sauce into the pickle liquid.",
+    "Pile the chicken, cucumber, jalapeno and cilantro on the board with the pickles and rough chop.",
+    "Scrape everything into the bowl and toss until coated.",
+    "Taste, add more sriracha if you want it hotter, and pack into the rolls."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Skip the roll and the sugar: eat it as a slaw bowl or wrap it in butter lettuce."
+    ],
+    [
+     "Future You",
+     "The pickles keep a week in their liquid. The dressed filling is best the day it is made."
+    ],
+    [
+     "Show Off",
+     "Add a few fresh mint leaves and a squeeze of lime."
+    ],
+    [
+     "Flavor Bomb",
+     "Swap the chicken for 1 lb of cooked shrimp, rough chopped. Finish with a zigzag of Spicy Mayo or a spoonful of chili crisp."
+    ],
+    [
+     "Heat Dial",
+     "Mild: leave out the jalapeno and use plain mayonnaise. Warm: as written. Hot: jalapeno seeds in, and sriracha at the table."
+    ],
+    [
+     "Keep Your Fingers",
+     "Chile oil lingers. Wash your hands after the jalapeno and keep them away from your eyes."
+    ]
+   ]
+  },
+  {
+   "slug": "turkey-club-chop",
+   "title": "Turkey Club Chop",
+   "chapter": 1,
+   "tagline": "Three layers of sandwich, zero layers of effort.",
+   "time": "15 MIN",
+   "serves": "SERVES 2 (DOUBLE FOR 4)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": true,
+   "heat": 1,
+   "gist": "A club sandwich normally needs toothpicks and engineering. Chopped, it needs a roll. Turkey, bacon, lettuce and cheese all land in every bite, and a little mustard and lemon in the mayo keeps it from tasting flat. The tomato stays out of the chop. Chopped in, it waters everything down; sliced and laid in the roll, it stays a tomato. Use fully cooked bacon straight from the package.",
+   "move_title": "deli ribbons",
+   "move": "Stack the turkey slices, roll them into a log, and slice across the log. One pass turns a whole stack into ribbons. See Knife School.",
+   "lineup": [
+    "2 tbsp mayonnaise",
+    "1/2 tsp Dijon mustard",
+    "2 tsp lemon juice",
+    "4 oz sliced deli turkey",
+    "4 slices fully cooked bacon",
+    "2 slices cheddar or Swiss",
+    "1 small romaine heart, quartered lengthwise",
+    "1 plum tomato or pickled tomato, sliced thin and set aside",
+    "Salt and pepper",
+    "2 sandwich rolls, split"
+   ],
+   "steps": [
+    "Whisk the mayonnaise, mustard and lemon juice in the bottom of the bowl.",
+    "Slice the tomato thin and set it aside. It does not go in the chop.",
+    "Lay the romaine on the board. Stack the turkey, bacon and cheese on top.",
+    "Pile everything together and run your knife through it, turning the pile, until every piece is about the same size.",
+    "Scrape the pile into the bowl and toss until coated. Taste, then add salt and pepper.",
+    "Line each roll with tomato slices, pack in the chop, and eat right away."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Skip the roll and make the tomato the platform: swap the plum tomato for 1 large beefsteak tomato, cut it into thick slabs, season them with salt and pepper, and pile the chop on top. Knife and fork required."
+    ],
+    [
+     "Future You",
+     "Chop the turkey, bacon and cheese up to 2 days ahead. Add the romaine and dressing, and slice the tomato, just before eating."
+    ],
+    [
+     "Show Off",
+     "Add a diced avocado to the bowl at the end and fold gently."
+    ],
+    [
+     "Flavor Bomb",
+     "Use sliced pickled tomatoes in place of fresh, all winter. Swap the mayonnaise for Garlic Aioli or Chipotle-Lime Mayo."
+    ],
+    [
+     "Heat Dial",
+     "Mild: as written. Warm: Chipotle-Lime Mayo made with 1 chile. Hot: add pickled jalapenos to the chop."
+    ]
+   ]
+  },
+  {
+   "slug": "the-chopper",
+   "title": "The Chopper",
+   "chapter": 2,
+   "tagline": "If this book had a front door, this salad would be standing in it.",
+   "time": "15 MIN",
+   "serves": "SERVES 2 AS A MEAL, 4 AS A SIDE",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL, PEELER",
+   "protein": false,
+   "heat": 1,
+   "gist": "The salad this book is named for, and the pattern for every other one in this chapter: something leafy, something crisp, something juicy, something sharp, something rich, and a dressing built in the bottom of the bowl. The only real rule is size. When every piece is about as big as every other piece, each forkful gets a bit of everything.",
+   "move_title": "cutting to match",
+   "move": "Pick the smallest ingredient going into the bowl and cut everything else to that size. Here that means a small dice, about 1/4 inch. See Knife School.",
+   "lineup": [
+    "3 tbsp olive oil",
+    "1 tbsp red wine vinegar",
+    "1 tsp Dijon mustard",
+    "1/2 tsp dried oregano",
+    "1 small garlic clove, minced",
+    "1 romaine heart, chopped small",
+    "1 Persian cucumber, diced small",
+    "1 plum tomato, seeded and diced small",
+    "1 bell pepper, any color, diced small",
+    "1 carrot, peeled and diced small",
+    "4 radishes, diced small",
+    "1 shallot, minced",
+    "2 oz feta or sharp cheddar, diced small",
+    "2 tbsp roasted sunflower seeds",
+    "Salt and pepper"
+   ],
+   "steps": [
+    "Whisk the oil, vinegar, mustard, oregano and garlic in the bottom of the bowl with a pinch of salt.",
+    "Add the cucumber, tomato, pepper, carrot, radishes and shallot. Toss and let them sit in the dressing while you chop the romaine.",
+    "Add the romaine and toss until every piece is coated.",
+    "Add the cheese and sunflower seeds and toss once more.",
+    "Taste, then add salt and pepper until it tastes right to you."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Already there."
+    ],
+    [
+     "Beef It Up",
+     "Add a drained can of chickpeas or tuna, or 4 oz of chopped salami or deli turkey."
+    ],
+    [
+     "Future You",
+     "Chop everything but the romaine up to a day ahead and keep it in the dressing. Add the romaine, cheese and seeds when you are ready to eat."
+    ],
+    [
+     "Show Off",
+     "Add a diced avocado and a handful of chopped fresh herbs: parsley, dill, basil, whatever you have."
+    ],
+    [
+     "Flavor Bomb",
+     "Add 2 tbsp of chopped giardiniera or pepperoncini, or swap the dressing for Creamy Italian or Green Goddess from The Dressing Room."
+    ],
+    [
+     "Heat Dial",
+     "Mild: as written. Warm: pepperoncini in the chop. Hot: hot giardiniera and a pinch of red pepper flakes in the dressing."
+    ]
+   ]
+  },
+  {
+   "slug": "cobb-chop",
+   "title": "Cobb Chop",
+   "chapter": 2,
+   "tagline": "Invented from leftovers at midnight. Still the best idea anyone had that day.",
+   "time": "20 MIN",
+   "serves": "SERVES 4 (ONE WHOLE CHICKEN)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": true,
+   "heat": 1,
+   "gist": "The Cobb is a full meal pretending to be a salad: chicken, bacon, egg, avocado, tomato and blue cheese over crisp lettuce, with a sharp vinaigrette to cut through all that richness. Traditionally everything is laid out in neat rows. Do that for the photo, then toss it, because it eats better mixed.",
+   "move_title": "dicing a tomato",
+   "move": "Cut the tomato into planks, stack two planks and cut them into sticks, then turn the sticks and cut across into cubes. Planks, sticks, cubes. See Knife School.",
+   "lineup": [
+    "1/4 cup olive oil",
+    "2 tbsp red wine vinegar",
+    "1 tsp Dijon mustard",
+    "1 tsp Worcestershire sauce",
+    "2 romaine hearts, chopped",
+    "1 rotisserie chicken, meat pulled from the bone and diced (about 4 cups)",
+    "6 slices fully cooked bacon, chopped",
+    "4 peeled hard-boiled eggs, diced",
+    "2 plum tomatoes, diced",
+    "2 ripe avocados, diced",
+    "2 oz blue cheese, crumbled",
+    "Salt and pepper"
+   ],
+   "steps": [
+    "Whisk the oil, vinegar, mustard and Worcestershire in the bottom of the bowl with a pinch of salt and pepper.",
+    "Add the romaine and toss until coated.",
+    "Arrange the chicken, bacon, eggs, tomatoes, avocados and blue cheese in rows across the top.",
+    "Admire it. Then toss everything together.",
+    "Taste, then add salt and pepper until it tastes right to you."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Already there. This is one of the best low-carb meals in the book."
+    ],
+    [
+     "Future You",
+     "Dice the chicken, bacon and eggs up to 2 days ahead. Cut the avocado and dress the lettuce at the last minute."
+    ],
+    [
+     "Show Off",
+     "Swap the vinaigrette for the blue cheese dressing from The Wedge."
+    ],
+    [
+     "Flavor Bomb",
+     "Swap the chicken for 1 lb of cooked shrimp, add a few chopped pickled tomatoes, or use Chipotle-Lime Mayo thinned with lime as the dressing."
+    ],
+    [
+     "Heat Dial",
+     "Mild: as written. Warm: a pinch of cayenne in the vinaigrette. Hot: toss the chicken in 2 tbsp of buffalo sauce first."
+    ]
+   ]
+  },
+  {
+   "slug": "steakhouse-chop",
+   "title": "Steakhouse Chop",
+   "chapter": 2,
+   "tagline": "All the sides, none of the dress code.",
+   "time": "15 MIN",
+   "serves": "SERVES 2 (DOUBLE FOR 4)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 1,
+   "gist": "The salad that comes before the steak: cold romaine, radishes, cucumber, tomato and blue cheese in a sharp vinaigrette with a little Worcestershire for that steakhouse savor, topped with crispy onions from a can. It is crunchy in five different ways. The steak itself is optional, and lives in the Bring Your Own Protein chapter.",
+   "move_title": "the claw grip",
+   "move": "Curl your fingertips under so your knuckles, not your nails, face the blade. The flat of the knife rides against your knuckles as you slice the radishes into thin coins. See Knife School.",
+   "lineup": [
+    "2 tbsp olive oil",
+    "2 tsp red wine vinegar",
+    "1 tsp Worcestershire sauce",
+    "1/2 tsp Dijon mustard",
+    "1 romaine heart, chopped",
+    "4 radishes, sliced into thin coins",
+    "1 Persian cucumber, diced",
+    "1 plum tomato, diced",
+    "2 slices fully cooked bacon, chopped",
+    "2 oz blue cheese, crumbled",
+    "1/4 cup store-bought crispy fried onions",
+    "Salt and plenty of black pepper"
+   ],
+   "steps": [
+    "Whisk the oil, vinegar, Worcestershire and mustard in the bottom of the bowl with a pinch of salt.",
+    "Add the radishes, cucumber and tomato. Toss.",
+    "Add the romaine, bacon and half the blue cheese. Toss until coated.",
+    "Taste, then add salt and a lot of pepper.",
+    "Top with the rest of the blue cheese and the crispy onions."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Leave off the crispy onions and add a few thin slices of raw shallot."
+    ],
+    [
+     "Beef It Up",
+     "Add 4 oz of sliced deli roast beef cut into ribbons, or 2 chopped hard-boiled eggs."
+    ],
+    [
+     "Future You",
+     "Make the dressing ahead; chop the rest fresh. The crispy onions go on at the table."
+    ],
+    [
+     "Show Off",
+     "Swap the vinaigrette for the blue cheese dressing from The Wedge."
+    ],
+    [
+     "Flavor Bomb",
+     "Whisk 1 tsp of prepared horseradish into the dressing, add chopped pickled tomatoes, or spoon Horseradish Cream over the top."
+    ],
+    [
+     "Heat Dial",
+     "Mild: as written. Warm: horseradish in the dressing. Hot: buffalo sauce drizzled over the blue cheese."
+    ]
+   ]
+  },
+  {
+   "slug": "southwest-chop",
+   "title": "Southwest Chop",
+   "chapter": 2,
+   "tagline": "A burrito bowl that skipped the burrito and the bowl fee.",
+   "time": "20 MIN",
+   "serves": "SERVES 4 (WHOLE CANS OF BEANS AND CORN)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 2,
+   "gist": "Black beans, corn, peppers, avocado and pepper jack over romaine, with a lime and cumin dressing and crushed tortilla chips standing in for croutons. Two cans do most of the work. Rinse the beans well or they turn the whole salad gray. The chips go on at the very end so they stay loud.",
+   "move_title": "dicing a bell pepper",
+   "move": "Slice off the top and bottom, cut down one side, and unroll the pepper into one flat strip, cutting away the seeds and ribs. Lay it skin side down, cut into strips, then across into dice. See Knife School.",
+   "lineup": [
+    "3 tbsp olive oil",
+    "2 tbsp lime juice",
+    "1/2 tsp ground cumin",
+    "1/2 tsp chili powder",
+    "1 can (15 oz) black beans, drained and rinsed",
+    "1 can (about 15 oz) corn, drained",
+    "1 bell pepper, any color, diced",
+    "1 pint cherry tomatoes, halved",
+    "2 scallions, sliced thin",
+    "2 romaine hearts, chopped",
+    "2 oz pepper jack cheese, diced small",
+    "2 ripe avocados, diced",
+    "1 handful fresh cilantro, chopped",
+    "2 handfuls tortilla chips, crushed",
+    "Salt and pepper"
+   ],
+   "steps": [
+    "Whisk the oil, lime juice, cumin and chili powder in the bottom of the bowl with a pinch of salt.",
+    "Add the beans, corn, pepper, tomatoes and scallions. Toss.",
+    "Add the romaine, cheese and cilantro. Toss until coated.",
+    "Add the avocados and fold gently.",
+    "Taste, then add salt, pepper and more lime until it tastes right to you.",
+    "Scatter the crushed chips over the top."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Leave out the beans, corn and chips, and add a second bell pepper and 2 Persian cucumbers. With the beans and corn in, it is not low-carb."
+    ],
+    [
+     "Beef It Up",
+     "Add the meat from 1 rotisserie chicken, or see the Steak Mexican Bowl in Bring Your Own Protein."
+    ],
+    [
+     "Future You",
+     "The bean, corn and pepper mix keeps 3 days in the dressing. Add the romaine, avocado and chips when you are ready to eat."
+    ],
+    [
+     "Show Off",
+     "Swap the dressing for cilantro-lime from The Dressing Room and add pickled jalapenos."
+    ],
+    [
+     "Flavor Bomb",
+     "Add 2 tbsp of hot pepper relish or a few spoonfuls of Chunky Pantry Salsa to the dressing. Finish with a drizzle of Chipotle-Lime Mayo."
+    ],
+    [
+     "Heat Dial",
+     "Mild: leave out the chili powder and use mild cheddar. Warm: as written. Hot: a minced jalapeno, seeds in, plus Chipotle-Lime Mayo made with 2 chiles."
+    ]
+   ]
+  },
+  {
+   "slug": "classic-chicken-salad",
+   "title": "Classic Chicken Salad",
+   "chapter": 3,
+   "tagline": "The little black dress of lunch.",
+   "time": "15 MIN",
+   "serves": "SERVES 4 (ONE WHOLE CHICKEN)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": true,
+   "heat": 1,
+   "gist": "Plain, creamy, a little crunchy, and good on anything. The trick is contrast: soft chicken against crisp celery, rich mayonnaise against lemon and mustard. Use both the white and dark meat from the chicken; the dark meat is what keeps it from tasting dry. Every other chicken salad in this chapter starts here.",
+   "move_title": "slicing scallions",
+   "move": "Line the scallions up side by side, trim the roots, and slice across all of them at once, white parts and green. See Knife School.",
+   "lineup": [
+    "1/2 cup mayonnaise",
+    "1 tbsp Dijon mustard",
+    "1 tbsp lemon juice",
+    "1 rotisserie chicken, meat pulled from the bone (about 4 cups)",
+    "2 celery ribs, diced small",
+    "2 scallions, sliced thin",
+    "1 handful fresh parsley, chopped (optional)",
+    "Salt and pepper"
+   ],
+   "steps": [
+    "Whisk the mayonnaise, mustard and lemon juice in the bottom of the bowl.",
+    "Rough chop the chicken into bite-size pieces.",
+    "Add the chicken, celery, scallions and parsley to the bowl.",
+    "Stir until everything is coated.",
+    "Taste, then add salt and pepper until it tastes right to you."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Already there. Serve it in lettuce cups, on cucumber rounds, or in half an avocado."
+    ],
+    [
+     "Future You",
+     "Keeps 3 days in a covered container in the fridge. It firms up overnight; loosen it with a spoonful of mayonnaise."
+    ],
+    [
+     "Show Off",
+     "Add a handful of halved grapes and chopped toasted pecans."
+    ],
+    [
+     "Flavor Bomb",
+     "Swap half the mayonnaise for hummus or Garlic Aioli, or stir in 1 tbsp of sweet relish."
+    ],
+    [
+     "Heat Dial",
+     "Mild: as written. Warm: 1 tsp of sriracha or a pinch of cayenne. Hot: swap the mayonnaise for Spicy Mayo made with 2 tbsp of sriracha."
+    ],
+    [
+     "Psst",
+     "Pull the chicken while it is still a little warm from the store. The meat comes off the bone far more easily."
+    ]
+   ]
+  },
+  {
+   "slug": "egg-salad",
+   "title": "Egg Salad",
+   "chapter": 3,
+   "tagline": "Six eggs, no boiling, no peeling, no complaints.",
+   "time": "10 MIN",
+   "serves": "SERVES 2 (DOUBLE FOR 4)",
+   "level": "BUTTER KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 1,
+   "gist": "Stores sell hard-boiled eggs already peeled, usually six to a pack, which makes egg salad a true no-cook recipe. Keep the pieces chunky. Egg salad chopped too fine turns to paste. A little mustard and a shake of paprika are all the seasoning it needs.",
+   "move_title": "dicing an egg",
+   "move": "Slice the egg lengthwise into planks, give the planks a quarter turn, and slice again. Two passes and it is diced. See Knife School.",
+   "lineup": [
+    "1 package (6) peeled hard-boiled eggs",
+    "3 tbsp mayonnaise",
+    "1 tsp yellow or Dijon mustard",
+    "1 celery rib, diced small",
+    "2 scallions, sliced thin",
+    "1/4 tsp paprika, plus more for the top",
+    "Salt and pepper"
+   ],
+   "steps": [
+    "Dice the eggs and tip them into the bowl.",
+    "Add the mayonnaise, mustard, celery, scallions and paprika.",
+    "Fold gently until just combined. Stop while it is still chunky.",
+    "Taste, then add salt and pepper until it tastes right to you.",
+    "Dust the top with a little more paprika."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Already there. Serve in lettuce cups or on thick cucumber rounds."
+    ],
+    [
+     "Beef It Up",
+     "Fold in 3 oz of chopped deli ham or 4 slices of chopped fully cooked bacon."
+    ],
+    [
+     "Future You",
+     "Keeps 3 days in the fridge in a covered container."
+    ],
+    [
+     "Show Off",
+     "Add 1 tbsp of chopped fresh dill or chives and a few drops of hot sauce."
+    ],
+    [
+     "Flavor Bomb",
+     "Stir in 1 tbsp of sweet or dill relish, the deli-counter way, or swap the mayonnaise for Garlic Aioli."
+    ],
+    [
+     "Heat Dial",
+     "Mild: as written. Warm: a few drops of hot sauce and hot paprika on top. Hot: 1 tsp of sriracha and a spoonful of chili crisp over the top."
+    ]
+   ]
+  },
+  {
+   "slug": "shrimp-louie-chop",
+   "title": "Shrimp Louie Chop",
+   "chapter": 3,
+   "tagline": "A seafood tower, flattened for your convenience.",
+   "time": "15 MIN",
+   "serves": "SERVES 2 (DOUBLE FOR 4)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": true,
+   "heat": 2,
+   "gist": "Louie is the old West Coast seafood salad with the pink dressing: mayonnaise, a little ketchup, lemon and relish. It sounds odd and tastes exactly right with cold shrimp. A bag of cooked, peeled shrimp from the freezer case, thawed in the fridge, makes this completely no-cook.",
+   "move_title": "dicing an avocado on the board",
+   "move": "After pitting it with a spoon, peel each half, lay it flat side down, and cut it into strips and then cubes. Nothing gets cut in your hand. See Knife School.",
+   "lineup": [
+    "3 tbsp mayonnaise",
+    "1 tbsp ketchup",
+    "1 tbsp sweet relish",
+    "2 tsp lemon juice",
+    "A few drops of hot sauce",
+    "1 bag (12 oz) cooked peeled shrimp, thawed and patted dry",
+    "1 romaine heart, rough chopped",
+    "1 Persian cucumber, diced",
+    "1 plum tomato, diced",
+    "2 peeled hard-boiled eggs, diced",
+    "1 ripe avocado, diced",
+    "Salt and pepper"
+   ],
+   "steps": [
+    "Whisk the mayonnaise, ketchup, relish, lemon juice and hot sauce in the bottom of the bowl.",
+    "Rough chop the shrimp and add them to the bowl. Toss until coated.",
+    "Add the romaine, cucumber and tomato. Toss again.",
+    "Add the eggs and avocado and fold gently, two or three turns.",
+    "Taste, then add salt and pepper until it tastes right to you."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Swap the ketchup and sweet relish for 1 tsp of tomato paste and 1 tbsp of dill relish."
+    ],
+    [
+     "Future You",
+     "Make the dressing up to 4 days ahead. Chop and toss everything else just before eating."
+    ],
+    [
+     "Show Off",
+     "Add a handful of pitted black olives and a few spears of jarred asparagus."
+    ],
+    [
+     "Flavor Bomb",
+     "Add 4 oz of chopped imitation crab to make it a crab and shrimp Louie, or swap the dressing for Yum Yum Sauce."
+    ],
+    [
+     "Heat Dial",
+     "Mild: leave out the hot sauce. Warm: as written. Hot: 1 tsp of prepared horseradish and 1 tsp of sriracha in the dressing, cocktail-sauce style."
+    ],
+    [
+     "Keep Your Fingers",
+     "Thaw shrimp overnight in the fridge, never on the counter, and eat this the day you make it."
+    ]
+   ]
+  },
+  {
+   "slug": "italian-tuna-and-white-bean-salad",
+   "title": "Italian Tuna and White Bean Salad",
+   "chapter": 3,
+   "tagline": "No mayo was invited, and nobody missed it.",
+   "time": "10 MIN",
+   "serves": "SERVES 4 (ONE WHOLE CAN OF BEANS)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": true,
+   "heat": 2,
+   "gist": "The Italian way with canned tuna: olive oil, vinegar, creamy white beans, sharp shallot and a lot of parsley. Buy tuna packed in olive oil and use some of that oil in the dressing; it is already seasoned by the fish. This is pantry food that tastes like a vacation.",
+   "move_title": "chopping parsley",
+   "move": "Squeeze the parsley into a tight ball, slice across it thinly, then rock the knife back through the pile once or twice. See Knife School.",
+   "lineup": [
+    "2 cans (5 oz each) tuna in olive oil",
+    "1 can (15 oz) cannellini beans, drained and rinsed",
+    "1 shallot, sliced thin",
+    "1 celery rib, sliced thin",
+    "1 large handful fresh parsley, chopped",
+    "2 tbsp red wine vinegar",
+    "1 tbsp lemon juice",
+    "Pinch of red pepper flakes",
+    "Salt and pepper"
+   ],
+   "steps": [
+    "Drain the tuna over the bowl so about 2 tbsp of its oil lands in the bottom.",
+    "Whisk the vinegar, lemon juice and pepper flakes into the oil.",
+    "Add the beans, shallot, celery and parsley. Toss until coated.",
+    "Add the tuna in large flakes and fold gently so it stays chunky.",
+    "Taste, then add salt and pepper until it tastes right to you."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Beans carry carbs, so this one is lighter, not low. For truly low, swap the beans for 2 diced Persian cucumbers."
+    ],
+    [
+     "Future You",
+     "Keeps 3 days in the fridge and improves overnight as the beans soak up the dressing."
+    ],
+    [
+     "Show Off",
+     "Add a handful of halved cherry tomatoes and a few torn basil leaves."
+    ],
+    [
+     "Flavor Bomb",
+     "Add 2 tbsp of chopped giardiniera or pickled tomatoes, swap one can of tuna for a tin of sardines, or spoon Italian Salsa Verde over the top."
+    ],
+    [
+     "Heat Dial",
+     "Mild: leave out the pepper flakes. Warm: as written. Hot: 1 tsp of Calabrian chili paste in the dressing."
+    ]
+   ]
+  },
+  {
+   "slug": "pico-de-gallo-and-chunky-guacamole",
+   "title": "Pico de Gallo and Chunky Guacamole",
+   "chapter": 4,
+   "tagline": "One chop, two dips. Efficiency never tasted this good.",
+   "time": "15 MIN",
+   "serves": "SERVES 4 AS A SNACK",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 3,
+   "gist": "Pico de gallo is Mexico's fresh chopped salsa: tomato, onion, chile, cilantro, lime and salt, nothing else. The trick here is that guacamole is mostly avocado plus pico. So you make one bowl of pico, stir a few spoonfuls into mashed avocado, and put out two dips for the work of one.",
+   "move_title": "seeding a chile",
+   "move": "Halve the jalapeno lengthwise and scrape out the seeds and white ribs with the tip of a spoon. The ribs hold most of the heat, so leave some in if you like it hot. See Knife School.",
+   "lineup": [
+    "4 plum tomatoes, seeded and diced small",
+    "1 shallot, minced",
+    "1 jalapeno, seeded and minced",
+    "1 large handful fresh cilantro, chopped",
+    "2 tbsp lime juice",
+    "1/2 tsp salt",
+    "2 ripe avocados",
+    "Tortilla chips, for serving"
+   ],
+   "steps": [
+    "Toss the tomatoes, shallot, jalapeno, cilantro, lime juice and salt in the bowl. That is the pico.",
+    "Taste, then add salt and lime until it tastes right to you.",
+    "Scoop about two thirds of the pico into a serving dish.",
+    "Add the avocado flesh to what is left in the bowl and mash with a fork, leaving it chunky.",
+    "Taste the guacamole and add another pinch of salt. Avocado needs more than you think."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Scoop with cucumber rounds, pepper wedges or pork rinds."
+    ],
+    [
+     "Beef It Up",
+     "Spoon both over a drained can of black beans for a fast bowl."
+    ],
+    [
+     "Future You",
+     "Pico keeps 2 days but weeps; drain it before serving. For guacamole, press plastic wrap directly onto the surface and it holds a day."
+    ],
+    [
+     "Show Off",
+     "Add a diced mango to the pico."
+    ],
+    [
+     "Flavor Bomb",
+     "Stir 1 tbsp of hot pepper relish into the pico, use chopped pickled tomatoes in winter, or swirl Chipotle-Lime Mayo over the guacamole."
+    ],
+    [
+     "Heat Dial",
+     "Mild: leave out the jalapeno and add a diced bell pepper. Warm: seeded jalapeno, as written. Hot: seeds in, or a serrano. Reckless: a minced habanero, and gloves."
+    ],
+    [
+     "Keep Your Fingers",
+     "Wash your hands after handling the jalapeno, and keep them away from your eyes."
+    ]
+   ]
+  },
+  {
+   "slug": "cowboy-caviar",
+   "title": "Cowboy Caviar",
+   "chapter": 4,
+   "tagline": "Not caviar. Possibly not cowboys. Definitely gone by halftime.",
+   "time": "20 MIN",
+   "serves": "SERVES 8 AS A DIP (THREE WHOLE CANS)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 2,
+   "gist": "A Texas party dip from the 1940s that is really a bean salad in disguise: black beans, black-eyed peas, corn, peppers and tomatoes in a sweet-sharp vinaigrette, scooped up with tortilla chips. It makes a lot, it costs very little, and it is better the next day. This is the recipe to bring to the thing.",
+   "move_title": "a big batch of even dice",
+   "move": "Cut everything to the size of a bean. When a dip gets scooped, pieces that match stay on the chip. See Knife School.",
+   "lineup": [
+    "3 tbsp olive oil",
+    "2 tbsp red wine vinegar",
+    "1 tbsp lime juice",
+    "1 tsp sugar",
+    "1/2 tsp ground cumin",
+    "1/2 tsp garlic powder",
+    "1/2 tsp salt",
+    "1 can (15 oz) black beans, drained and rinsed",
+    "1 can (15 oz) black-eyed peas, drained and rinsed",
+    "1 can (about 15 oz) corn, drained",
+    "1 bell pepper, any color, diced small",
+    "2 plum tomatoes, seeded and diced small",
+    "1 jalapeno, seeded and minced",
+    "2 scallions, sliced thin",
+    "1 large handful fresh cilantro, chopped"
+   ],
+   "steps": [
+    "Whisk the oil, vinegar, lime juice, sugar, cumin, garlic powder and salt in the bottom of the bowl.",
+    "Add the beans, black-eyed peas and corn. Toss.",
+    "Add the pepper, tomatoes, jalapeno, scallions and cilantro. Toss again.",
+    "Let it sit 15 minutes if you can.",
+    "Taste, then add salt and lime until it tastes right to you."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Beans and corn make this a carb dish. Eat a smaller scoop with pepper wedges in place of chips."
+    ],
+    [
+     "Beef It Up",
+     "It already carries plenty of plant protein. Over romaine with a diced avocado, it is a meal."
+    ],
+    [
+     "Future You",
+     "Keeps 5 days in the fridge and peaks on day two."
+    ],
+    [
+     "Show Off",
+     "Add 2 diced avocados just before serving."
+    ],
+    [
+     "Flavor Bomb",
+     "Swap the vinaigrette for 1/3 cup of Sub-Shop Oil and Vinegar, or stir in chopped giardiniera."
+    ],
+    [
+     "Heat Dial",
+     "Mild: leave out the jalapeno. Warm: seeded jalapeno, as written. Hot: two jalapenos, seeds in, and a few shakes of hot sauce."
+    ]
+   ]
+  },
+  {
+   "slug": "cucumber-wrapped-sushi-rolls",
+   "title": "Cucumber-Wrapped Sushi Rolls",
+   "chapter": 4,
+   "tagline": "Sushi night. No rice, no mat, no culinary degree.",
+   "time": "25 MIN",
+   "serves": "SERVES 2 (DOUBLE FOR 4)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL, PEELER",
+   "protein": false,
+   "heat": 2,
+   "gist": "In Japanese restaurants this style is called naruto: the filling is wrapped in a thin sheet of cucumber, not rice and seaweed. Here a peeler makes long cucumber ribbons, which overlap into a wrapper. The rolls are crisp, cold and naturally low in carbs. They are a little fiddly the first time and easy by the third roll.",
+   "move_title": "long ribbons with a peeler",
+   "move": "Hold the cucumber flat on the board and pull a Y-peeler down its full length with steady pressure. Turn the cucumber when you reach the seedy core. See Knife School.",
+   "lineup": [
+    "1 English cucumber, peeled into long wide ribbons",
+    "1 package (8 oz) imitation crab, shredded",
+    "1 tbsp mayonnaise",
+    "1 tsp sriracha, or to taste",
+    "1 ripe avocado, sliced thin",
+    "1 carrot, cut into matchsticks",
+    "1 tsp sesame seeds",
+    "Soy sauce, for dipping"
+   ],
+   "steps": [
+    "Stir the imitation crab, mayonnaise and sriracha together in the bowl.",
+    "Lay 3 cucumber ribbons on the board, overlapping along their long edges to make one wide sheet. Pat dry with a towel.",
+    "Spread a line of crab across one short end. Lay avocado slices and carrot matchsticks on top.",
+    "Roll up snugly from the filled end. Set seam side down.",
+    "Repeat until the ribbons run out. Cut each roll in half with a gentle sawing motion.",
+    "Sprinkle with sesame seeds and serve with soy sauce."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Already there. For the lowest count, swap the imitation crab for a package (4 oz) of smoked salmon."
+    ],
+    [
+     "Beef It Up",
+     "Use a package of smoked salmon plus 2 oz of cream cheese, or a bag (6 oz) of cooked salad shrimp, chopped."
+    ],
+    [
+     "Future You",
+     "Make the filling a day ahead. Roll just before eating; cucumber weeps as it sits."
+    ],
+    [
+     "Show Off",
+     "Tuck in a strip of mango, or a few leaves of cilantro or mint."
+    ],
+    [
+     "Flavor Bomb",
+     "Top each piece with a dot of chili crisp, or serve with Yum Yum Sauce and Spicy Mayo side by side for dipping."
+    ],
+    [
+     "Heat Dial",
+     "Mild: leave out the sriracha and dip in Yum Yum Sauce. Warm: 1 tsp of sriracha, as written. Hot: Spicy Mayo made with 2 tbsp of sriracha, plus wasabi in the soy sauce."
+    ],
+    [
+     "Psst",
+     "The seedy core of the cucumber is the cook's snack. Allergy note: imitation crab is fish and usually contains wheat and egg."
+    ]
+   ]
+  },
+  {
+   "slug": "street-corn-chop",
+   "title": "Street Corn Chop",
+   "chapter": 4,
+   "tagline": "Everything on the cob, off the cob.",
+   "time": "10 MIN",
+   "serves": "SERVES 4 AS A SIDE (TWO WHOLE CANS)",
+   "level": "BUTTER KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 2,
+   "gist": "Mexican street corn, called elote on the cob and esquites in a cup, is grilled corn slathered in creamy, tangy, chile-dusted sauce with salty cheese. This no-heat version uses canned corn and gets its smoky note from smoked paprika. Dry the corn well; wet corn makes the sauce slide right off.",
+   "move_title": "mincing scallions fine",
+   "move": "Slice the scallions lengthwise into thin strips first, then bunch the strips and slice across. You get tiny squares, not rings. See Knife School.",
+   "lineup": [
+    "2 cans (about 15 oz each) corn, drained and patted dry",
+    "2 tbsp mayonnaise",
+    "2 tbsp sour cream",
+    "1 tbsp lime juice",
+    "1/2 tsp chili powder, plus more for the top",
+    "1/4 tsp smoked paprika",
+    "2 scallions, minced",
+    "1 handful fresh cilantro, chopped",
+    "2 oz cotija or feta, crumbled",
+    "Salt"
+   ],
+   "steps": [
+    "Stir the mayonnaise, sour cream, lime juice, chili powder and paprika in the bottom of the bowl.",
+    "Add the corn, scallions and cilantro. Toss until coated.",
+    "Fold in most of the cheese.",
+    "Taste, then add salt and lime until it tastes right to you.",
+    "Top with the rest of the cheese and a dusting of chili powder."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Corn is a starch, so this is lighter at best: use 1 can of corn and add 2 diced Persian cucumbers and a diced bell pepper."
+    ],
+    [
+     "Beef It Up",
+     "Add a drained can of black beans, or spoon it over the Steak Mexican Bowl."
+    ],
+    [
+     "Future You",
+     "Keeps 3 days in the fridge."
+    ],
+    [
+     "Show Off",
+     "Add a minced jalapeno and a diced avocado."
+    ],
+    [
+     "Flavor Bomb",
+     "Stir in 1 tsp of chili crisp or hot pepper relish, or swap the mayonnaise for Chipotle-Lime Mayo."
+    ],
+    [
+     "Heat Dial",
+     "Mild: swap the chili powder for plain paprika. Warm: as written. Hot: a minced jalapeno, seeds in, and a dusting of cayenne on top."
+    ]
+   ]
+  },
+  {
+   "slug": "fattoush",
+   "title": "Fattoush",
+   "chapter": 4,
+   "tagline": "A salad with chips in it. You are welcome.",
+   "time": "15 MIN",
+   "serves": "SERVES 2 AS A MEAL, 4 AS A SIDE",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 1,
+   "gist": "Fattoush is the Levantine bread salad: crisp vegetables and lots of herbs with shards of toasted pita, dressed with lemon and sumac, a tart, deep red spice found in most supermarkets now. Store-bought pita chips stand in for the toasted bread. Add them at the last second so they stay crisp at the edges and soak up dressing in the middle.",
+   "move_title": "picking herbs",
+   "move": "Pinch the top of a mint or parsley stem and pull your fingers down against the grain. The leaves come off in one motion, and no knife is involved. See Knife School.",
+   "lineup": [
+    "3 tbsp olive oil",
+    "2 tbsp lemon juice",
+    "1 tsp ground sumac, plus more for the top",
+    "1 small garlic clove, minced",
+    "1 romaine heart, chopped",
+    "2 Persian cucumbers, diced",
+    "2 plum tomatoes, diced",
+    "4 radishes, sliced thin",
+    "2 scallions, sliced thin",
+    "1 handful fresh mint leaves, torn",
+    "1 handful fresh parsley leaves",
+    "2 cups plain pita chips, broken up",
+    "Salt and pepper"
+   ],
+   "steps": [
+    "Whisk the oil, lemon juice, sumac and garlic in the bottom of the bowl with a pinch of salt.",
+    "Add the cucumbers, tomatoes, radishes and scallions. Toss.",
+    "Add the romaine, mint and parsley. Toss until coated.",
+    "Taste, then add salt, pepper and lemon until it tastes right to you.",
+    "Add the pita chips, toss once, dust with sumac and serve right away."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Leave out the pita chips and add a handful of roasted sunflower seeds for crunch."
+    ],
+    [
+     "Beef It Up",
+     "Add a drained can of chickpeas and 2 oz of crumbled feta."
+    ],
+    [
+     "Future You",
+     "Chop the vegetables a day ahead. Dress it and add the chips only when you are ready to eat."
+    ],
+    [
+     "Show Off",
+     "Add a drizzle of pomegranate molasses to the dressing."
+    ],
+    [
+     "Flavor Bomb",
+     "Add chopped pickled tomatoes or a spoonful of giardiniera, or drizzle with Garlic Aioli thinned with lemon."
+    ],
+    [
+     "Heat Dial",
+     "Mild: as written. Warm: a pinch of red pepper flakes in the dressing. Hot: 1 tsp of harissa whisked into the dressing."
+    ],
+    [
+     "Psst",
+     "No sumac? Use the zest of the lemon, peeled and minced. It is not the same, but it is in the neighborhood."
+    ]
+   ]
+  },
+  {
+   "slug": "steak-mexican-bowl",
+   "title": "Steak Mexican Bowl",
+   "chapter": 5,
+   "tagline": "Everything you wanted from the burrito place, minus the line.",
+   "time": "20 MIN",
+   "serves": "SERVES 4 (1 LB COOKED STEAK)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": true,
+   "heat": 2,
+   "gist": "Sliced steak over crisp romaine with black beans, corn, fresh pico, avocado and a lime crema. It is a build-your-own bowl, which makes it a good family dinner: put everything out and let people assemble. Leftover grilled steak is ideal, and it is actually easier to slice thin when it is cold.",
+   "move_title": "slicing against the grain",
+   "move": "Look for the lines running through the meat. Turn the steak so those lines run left to right, and slice across them, as thin as you can. Cutting across the fibers makes every bite tender; cutting along them makes it chewy. See Knife School.",
+   "lineup": [
+    "1/3 cup sour cream",
+    "2 tbsp lime juice",
+    "1/2 tsp ground cumin",
+    "1/4 tsp salt",
+    "1 lb cooked steak, such as flank, skirt or sirloin, sliced thin against the grain",
+    "2 romaine hearts, chopped",
+    "1 can (15 oz) black beans, drained and rinsed",
+    "1 can (about 15 oz) corn, drained",
+    "4 plum tomatoes, seeded and diced small",
+    "1 shallot, minced",
+    "1 jalapeno, seeded and minced",
+    "1 large handful fresh cilantro, chopped",
+    "2 ripe avocados, diced",
+    "Tortilla chips, for crunch"
+   ],
+   "steps": [
+    "Stir the sour cream, 1 tbsp of the lime juice, cumin and salt in the bowl. Scrape the crema into a small dish and wipe out the bowl.",
+    "Toss the tomatoes, shallot, jalapeno, cilantro and remaining lime juice in the bowl with a pinch of salt. That is the pico.",
+    "Divide the romaine among four bowls.",
+    "Top with the beans, corn, steak, avocado and pico.",
+    "Drizzle with the crema and crush a few chips over the top."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Leave out the beans, corn and chips. Steak, romaine, pico, avocado and crema make a genuinely low-carb bowl."
+    ],
+    [
+     "Future You",
+     "Slice the steak and make the pico and crema a day ahead. Build the bowls when you are ready to eat."
+    ],
+    [
+     "Show Off",
+     "Swap the crema for Raw Tomatillo Salsa, or add Street Corn Chop in place of the plain corn."
+    ],
+    [
+     "Flavor Bomb",
+     "Spoon Chimichurri over the steak, or swap the lime crema for Chipotle-Lime Mayo."
+    ],
+    [
+     "Heat Dial",
+     "Mild: leave out the jalapeno. Warm: seeded jalapeno, as written. Hot: seeds in, Chipotle-Lime Mayo made with 2 chiles, and hot sauce on the table."
+    ],
+    [
+     "Psst",
+     "No steak? A tub of store-bought carnitas or the meat from 1 rotisserie chicken works the same way."
+    ]
+   ]
+  },
+  {
+   "slug": "chicken-fajita-chop-bowl",
+   "title": "Chicken Fajita Chop Bowl",
+   "chapter": 5,
+   "tagline": "All the sizzle, none of the sizzle.",
+   "time": "20 MIN",
+   "serves": "SERVES 4 (1 LB COOKED CHICKEN)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": true,
+   "heat": 2,
+   "gist": "Fajitas are normally about hot peppers and onions from a skillet. This version goes the other way: the peppers stay raw, crisp and sweet, quick-pickled in lime juice while you chop everything else, and the cooked chicken gets tossed in fajita spices. It is fresher and crunchier than the original, and nobody has to clean a skillet.",
+   "move_title": "pepper strips",
+   "move": "Unroll the pepper into a flat sheet, lay it skin side down, and slice it into strips about as wide as a pencil. Skin side down matters: the knife grips the flesh and slips on the skin. See Knife School.",
+   "lineup": [
+    "3 tbsp lime juice",
+    "2 tbsp olive oil",
+    "1 tsp chili powder",
+    "1 tsp ground cumin",
+    "1/2 tsp garlic powder",
+    "1/2 tsp smoked paprika",
+    "1/2 tsp salt",
+    "2 bell peppers, different colors, cut into strips",
+    "1 shallot, sliced into thin rings",
+    "1 lb cooked chicken, sliced or pulled",
+    "2 romaine hearts, chopped",
+    "1 ripe avocado, diced",
+    "1 large handful fresh cilantro, chopped",
+    "Sour cream and salsa, for serving"
+   ],
+   "steps": [
+    "Whisk the lime juice, oil, chili powder, cumin, garlic powder, paprika and salt in the bottom of the bowl.",
+    "Add the peppers and shallot. Toss and let sit 10 minutes to soften slightly.",
+    "Add the chicken and toss until it is coated in the spices.",
+    "Add the romaine and cilantro. Toss again.",
+    "Top with the avocado. Taste, then add salt and lime.",
+    "Serve with sour cream and salsa."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Already there. Skip the tortillas and eat it as a bowl."
+    ],
+    [
+     "Future You",
+     "The spiced chicken and peppers keep 3 days. Add the romaine and avocado as you serve."
+    ],
+    [
+     "Show Off",
+     "Warm tortillas are someone else's job, but if they appear, this is excellent in them."
+    ],
+    [
+     "Flavor Bomb",
+     "Use Chunky Pantry Salsa, add pickled jalapenos, and swap the sour cream for Chipotle-Lime Mayo."
+    ],
+    [
+     "Heat Dial",
+     "Mild: halve the chili powder and use plain paprika in place of smoked. Warm: as written. Hot: a sliced jalapeno in with the peppers and a pinch of cayenne in the spices."
+    ]
+   ]
+  },
+  {
+   "slug": "shrimp-taco-chop",
+   "title": "Shrimp Taco Chop",
+   "chapter": 5,
+   "tagline": "Taco night, deconstructed by someone in a hurry.",
+   "time": "15 MIN",
+   "serves": "SERVES 4 (1 LB COOKED SHRIMP)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": true,
+   "heat": 2,
+   "gist": "Cooked shrimp tossed in lime, chili and cumin over a crunchy cabbage slaw, with avocado, a creamy lime sauce and crushed tortilla chips. A bag of cooked shrimp from the freezer case, thawed overnight in the fridge, makes this the fastest dinner in the chapter. Pat the shrimp very dry or the spices slide off.",
+   "move_title": "halving shrimp lengthwise",
+   "move": "Lay the shrimp on its side and slice along the back curve from head end to tail. Two thin halves go further, pick up more seasoning, and sit better on a fork. See Knife School.",
+   "lineup": [
+    "1 lb cooked peeled shrimp, thawed, patted dry and halved lengthwise",
+    "3 tbsp lime juice",
+    "1 tbsp olive oil",
+    "1 tsp chili powder",
+    "1/2 tsp ground cumin",
+    "1/2 tsp salt",
+    "1/4 cup sour cream or mayonnaise",
+    "1 tsp hot sauce, or to taste",
+    "1 bag (14 oz) coleslaw mix",
+    "2 scallions, sliced thin",
+    "1 large handful fresh cilantro, chopped",
+    "2 ripe avocados, diced",
+    "2 handfuls tortilla chips, crushed"
+   ],
+   "steps": [
+    "Toss the shrimp with 1 tbsp of the lime juice, the oil, chili powder, cumin and half the salt in the bowl. Lift out onto the board.",
+    "Stir the sour cream, hot sauce, remaining lime juice and remaining salt in the bowl.",
+    "Add the coleslaw mix, scallions and cilantro. Toss until coated.",
+    "Divide the slaw among four bowls. Top with the shrimp and avocado.",
+    "Crush the chips over the top."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Leave off the chips. Everything else is already low-carb."
+    ],
+    [
+     "Future You",
+     "The slaw keeps 2 days. Season the shrimp and cut the avocado just before eating."
+    ],
+    [
+     "Show Off",
+     "Top with Mango Salsa or Pineapple-Jalapeno Salsa."
+    ],
+    [
+     "Flavor Bomb",
+     "Swap the creamy slaw for Lime-Cilantro Taco Slaw, add pickled jalapenos, and finish with Chipotle-Lime Mayo or Spicy Mayo."
+    ],
+    [
+     "Heat Dial",
+     "Mild: leave out the hot sauce and halve the chili powder. Warm: as written. Hot: Chipotle-Lime Mayo made with 2 chiles, plus a minced serrano in the slaw."
+    ],
+    [
+     "Keep Your Fingers",
+     "Thaw shrimp in the fridge, never on the counter, and keep this cold until it is served."
+    ]
+   ]
+  },
+  {
+   "slug": "italian-deli-pasta-salad",
+   "title": "Italian Deli Pasta Salad",
+   "chapter": 6,
+   "tagline": "Every cookout has one. This is the one people ask about.",
+   "time": "20 MIN",
+   "serves": "SERVES 4 (4 CUPS COOKED PASTA)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": true,
+   "heat": 2,
+   "gist": "The pasta salad from the deli counter, made with better ingredients: salami, provolone, tomatoes, peppers, olives and pepperoncini in a sharp Italian dressing. The rule for a good one is to cut everything to the size of the pasta, so no forkful is all noodle. Dress it generously. Cold pasta drinks dressing.",
+   "move_title": "cutting to the pasta",
+   "move": "Hold a piece of the pasta next to your first cut and match it. With rotini that means roughly 1/2 inch dice for everything. See Knife School.",
+   "lineup": [
+    "1/2 cup Creamy Italian or Red Wine Vinaigrette (The Dressing Room), or store-bought Italian dressing",
+    "4 cups cooked short pasta, such as rotini, cold",
+    "4 oz Genoa salami, diced",
+    "4 oz provolone, diced",
+    "1 pint cherry tomatoes, halved",
+    "1 bell pepper, any color, diced",
+    "1 shallot, minced",
+    "1/4 cup pitted black or kalamata olives, halved",
+    "1/4 cup jarred pepperoncini slices, drained",
+    "1 handful fresh basil or parsley, chopped",
+    "2 tbsp grated parmesan",
+    "Salt and pepper"
+   ],
+   "steps": [
+    "Put two thirds of the dressing in the bottom of the bowl.",
+    "Add the pasta and toss until coated.",
+    "Add the salami, provolone, tomatoes, pepper, shallot, olives and pepperoncini. Toss.",
+    "Add the herbs and parmesan. Toss again.",
+    "Taste. Add the rest of the dressing, salt and pepper as needed."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Swap the pasta for a can of drained hearts of palm noodles, or for 2 zucchini peeled into ribbons. Everything else stays the same."
+    ],
+    [
+     "Future You",
+     "Keeps 3 days in the fridge. It will need a splash more dressing on day two."
+    ],
+    [
+     "Show Off",
+     "Swap the provolone for small fresh mozzarella balls and add marinated artichoke hearts."
+    ],
+    [
+     "Flavor Bomb",
+     "Add 1/4 cup of Chicago-Style Giardiniera Relish and 2 oz of capicola, or whisk 1 tbsp of 'nduja into the dressing."
+    ],
+    [
+     "Heat Dial",
+     "Mild: swap the pepperoncini for roasted red peppers. Warm: as written. Hot: hot giardiniera and 1 tsp of Calabrian chili paste."
+    ]
+   ]
+  },
+  {
+   "slug": "california-roll-bowl",
+   "title": "California Roll Bowl",
+   "chapter": 6,
+   "tagline": "Sushi for people who cannot roll sushi. So, people.",
+   "time": "15 MIN",
+   "serves": "SERVES 2 (DOUBLE FOR 4)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 2,
+   "gist": "The California roll was invented in North America in the 1970s for diners nervous about raw fish: crab, avocado and cucumber, with the seaweed hidden inside. Unrolled into a bowl, it needs no mat and no skill. Everything in it is cooked or raw-vegetable safe, which makes it the right first sushi for kids.",
+   "move_title": "nori ribbons",
+   "move": "Stack two or three sheets of nori, roll them into a loose tube, and slice across with a dry knife into thin ribbons. A damp knife makes nori gummy. See Knife School.",
+   "lineup": [
+    "2 cups cooked rice, seasoned with the sushi rice seasoning",
+    "1 package (8 oz) imitation crab, shredded and rough chopped",
+    "1 tbsp mayonnaise",
+    "1 tsp sriracha, or to taste",
+    "1 Persian cucumber, diced small",
+    "1 ripe avocado, diced",
+    "2 sheets nori, cut into ribbons, or 1 snack pack roasted seaweed, crumbled",
+    "1 tsp sesame seeds",
+    "Soy sauce, for serving"
+   ],
+   "steps": [
+    "Season the rice and divide it between two bowls.",
+    "Stir the imitation crab, mayonnaise and sriracha together in the mixing bowl.",
+    "Top the rice with the crab, cucumber and avocado in separate piles.",
+    "Scatter the nori and sesame seeds over the top.",
+    "Serve with soy sauce."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Swap the rice for raw riced cauliflower, seasoned the same way, or serve everything over chopped romaine."
+    ],
+    [
+     "Beef It Up",
+     "Add a bag (6 oz) of cooked salad shrimp or 1 cup of shelled edamame, thawed."
+    ],
+    [
+     "Future You",
+     "The crab mix keeps 2 days. Cut the avocado and build the bowls just before eating."
+    ],
+    [
+     "Show Off",
+     "Add pickled ginger, a little wasabi, and diced mango."
+    ],
+    [
+     "Flavor Bomb",
+     "Drizzle with Yum Yum Sauce, Spicy Mayo or store-bought eel sauce, or all three in stripes, the way the sushi bar does."
+    ],
+    [
+     "Heat Dial",
+     "Mild: leave out the sriracha and use Yum Yum Sauce. Warm: 1 tsp of sriracha, as written. Hot: Spicy Mayo made with 2 tbsp of sriracha, plus wasabi."
+    ],
+    [
+     "Psst",
+     "Allergy note: imitation crab is fish and usually contains wheat and egg. Check the label."
+    ]
+   ]
+  },
+  {
+   "slug": "hand-roll-night",
+   "title": "Hand Roll Night",
+   "chapter": 6,
+   "tagline": "Taco night's cousin from Tokyo. Everybody builds their own.",
+   "time": "25 MIN",
+   "serves": "SERVES 4",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 2,
+   "gist": "Temaki, or hand rolls, are the casual home style of sushi in Japan: a piece of nori in your palm, a little rice, a few fillings, rolled into a cone and eaten right away. There is no mat, no slicing and no way to do it wrong. Set everything out and let each person build. It is the best dinner-party recipe in this book.",
+   "move_title": "sticks, all the same length",
+   "move": "Cut the cucumbers, carrot and avocado into sticks about 3 inches long, so they fit the nori and line up neatly. Matching lengths is what makes a platter look professional. See Knife School.",
+   "lineup": [
+    "4 cups cooked rice, seasoned with a double batch of the sushi rice seasoning",
+    "1 package (10 sheets) nori, each sheet cut in half",
+    "1 package (8 oz) imitation crab, shredded, mixed with 1 tbsp mayonnaise",
+    "2 cans (5 oz each) tuna, drained, mixed with 2 tbsp mayonnaise and 2 tsp sriracha",
+    "1 package (4 oz) smoked salmon, cut into strips",
+    "2 Persian cucumbers, cut into sticks",
+    "1 carrot, cut into matchsticks",
+    "1 ripe avocado, sliced",
+    "2 scallions, cut into 3 inch lengths and slivered",
+    "Sesame seeds and soy sauce, for serving"
+   ],
+   "steps": [
+    "Season the rice. Set it out with all the fillings, each in its own pile on the board or on plates.",
+    "Hold a half sheet of nori in your palm, shiny side down.",
+    "Press a thin layer of rice, about 2 tbsp, over the left third of the nori.",
+    "Lay two or three fillings diagonally across the rice, pointing toward the top corner.",
+    "Fold the bottom left corner up and over the fillings, then keep rolling into a cone.",
+    "Dip in soy sauce and eat right away, while the nori is still crisp."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Skip the rice and use more fillings, or wrap everything in butter lettuce leaves in place of nori and rice."
+    ],
+    [
+     "Beef It Up",
+     "Add a bag (6 oz) of cooked salad shrimp or strips of leftover cooked steak or chicken."
+    ],
+    [
+     "Future You",
+     "Make the crab and tuna mixes and cut the vegetables up to a day ahead. Nori goes soft in minutes, so roll only what you are about to eat."
+    ],
+    [
+     "Show Off",
+     "Add mango sticks, cream cheese, pickled ginger and wasabi to the spread."
+    ],
+    [
+     "Flavor Bomb",
+     "Put out a sauce bar: Yum Yum Sauce, Spicy Mayo, chili crisp, eel sauce, and a tin of smoked sprats."
+    ],
+    [
+     "Heat Dial",
+     "This one is built for it. Everyone sauces their own roll: Yum Yum for mild, Spicy Mayo for warm, chili crisp and wasabi for hot."
+    ],
+    [
+     "Psst",
+     "Wet your fingers before handling the rice and it will not stick to you. Butter Knife cooks can build their own rolls; the cutting is the adult's job."
+    ]
+   ]
+  },
+  {
+   "slug": "creamy-coleslaw",
+   "title": "Creamy Coleslaw",
+   "chapter": 7,
+   "tagline": "The side dish that has been to every picnic since 1900.",
+   "time": "10 MIN",
+   "serves": "SERVES 4 TO 6 (ONE WHOLE BAG OF SLAW MIX)",
+   "level": "BUTTER KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 1,
+   "gist": "Classic deli coleslaw: creamy, a little sweet, a little sharp, with celery seed for that unmistakable deli flavor. A bag of slaw mix means no half cabbage haunting the fridge. Give it ten minutes to sit and the cabbage softens just enough.",
+   "move_title": "shredding a cabbage, for the day you buy one",
+   "move": "Quarter the head through the core, cut the core out of each quarter on an angle, lay the quarter flat side down, and slice across as thinly as you can. See Knife School.",
+   "lineup": [
+    "1/3 cup mayonnaise",
+    "1 tbsp apple cider vinegar",
+    "1 tbsp sugar",
+    "1 tsp Dijon mustard",
+    "1/2 tsp celery seed",
+    "1/4 tsp salt",
+    "1 bag (14 oz) coleslaw mix",
+    "2 scallions, sliced thin",
+    "Black pepper"
+   ],
+   "steps": [
+    "Whisk the mayonnaise, vinegar, sugar, mustard, celery seed and salt in the bottom of the bowl.",
+    "Add the coleslaw mix and scallions. Toss until everything is coated.",
+    "Let it sit 10 minutes, then toss again.",
+    "Taste, then add salt, pepper and vinegar until it tastes right to you."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Swap the sugar for a sugar-free sweetener, or leave it out."
+    ],
+    [
+     "Beef It Up",
+     "It is a side. Pile it onto the BBQ Chicken Chop or any sandwich in Chapter 1."
+    ],
+    [
+     "Future You",
+     "Keeps 3 days in the fridge. It gets wetter as it sits; drain it a little before serving."
+    ],
+    [
+     "Show Off",
+     "Add a diced apple and a handful of chopped parsley."
+    ],
+    [
+     "Flavor Bomb",
+     "Stir in 1 tbsp of prepared horseradish or 2 tbsp of dill relish, or swap the dressing for Yum Yum Sauce for a hibachi-style slaw."
+    ],
+    [
+     "Heat Dial",
+     "Mild: as written. Warm: 1 tsp of sriracha in the dressing. Hot: a minced jalapeno and Spicy Mayo in place of plain."
+    ]
+   ]
+  },
+  {
+   "slug": "broccoli-crunch-salad",
+   "title": "Broccoli Crunch Salad",
+   "chapter": 7,
+   "tagline": "The potluck legend. Raw broccoli's finest hour.",
+   "time": "15 MIN",
+   "serves": "SERVES 4 TO 6 (ONE WHOLE BAG OF FLORETS)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 1,
+   "gist": "Raw broccoli chopped small, with bacon, cheddar, dried cranberries and sunflower seeds in a sweet-tangy creamy dressing. It converts broccoli skeptics at every potluck. The key is cutting the florets tiny, about the size of a marble, so the dressing coats everything and nothing feels like a raw tree.",
+   "move_title": "tiny trees",
+   "move": "Cut through the stem of each floret, then pull the halves apart with your fingers. The crown separates cleanly and you do not shower the board in green crumbs. Repeat until the pieces are marble-size. See Knife School.",
+   "lineup": [
+    "1/3 cup mayonnaise",
+    "1 tbsp apple cider vinegar",
+    "1 tbsp sugar or honey",
+    "1/4 tsp salt",
+    "1 bag (12 oz) broccoli florets, cut into tiny pieces",
+    "1 shallot, minced",
+    "4 slices fully cooked bacon, chopped",
+    "2 oz sharp cheddar, diced small",
+    "1/3 cup dried cranberries",
+    "1/4 cup roasted sunflower seeds",
+    "Black pepper"
+   ],
+   "steps": [
+    "Whisk the mayonnaise, vinegar, sugar and salt in the bottom of the bowl.",
+    "Add the broccoli and shallot. Toss until well coated.",
+    "Add the bacon, cheddar and cranberries. Toss again.",
+    "Taste, then add salt, pepper and vinegar until it tastes right to you.",
+    "Scatter the sunflower seeds over the top."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Leave out the cranberries and use a sugar-free sweetener in the dressing."
+    ],
+    [
+     "Beef It Up",
+     "Double the bacon and cheddar, or add a drained can (10 oz) of chicken."
+    ],
+    [
+     "Future You",
+     "Keeps 3 days in the fridge, and is better after a few hours. Add the seeds as you serve."
+    ],
+    [
+     "Show Off",
+     "Swap half the mayonnaise for plain Greek yogurt and add a diced apple."
+    ],
+    [
+     "Flavor Bomb",
+     "Stir in 1 tbsp of hot pepper relish, or swap the sugar for Hot Honey."
+    ],
+    [
+     "Heat Dial",
+     "Mild: as written. Warm: Hot Honey in the dressing. Hot: Hot Honey plus a pinch of cayenne and pepper jack in place of cheddar."
+    ]
+   ]
+  },
+  {
+   "slug": "marinated-tomatoes",
+   "title": "Marinated Tomatoes",
+   "chapter": 7,
+   "tagline": "Summer, held still for an hour.",
+   "time": "10 MIN, PLUS 20 MIN SITTING",
+   "serves": "SERVES 4 AS A SIDE",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 1,
+   "gist": "Ripe tomatoes, a little shallot and garlic, olive oil, vinegar, basil and salt. Twenty minutes later the tomatoes have given up their juice and made their own dressing. Make this only when tomatoes are truly in season, and never refrigerate them first. Bread for the juices is strongly advised.",
+   "move_title": "coring a tomato",
+   "move": "Push the tip of a paring knife in beside the stem at an angle and turn the tomato, cutting out a small cone. Then cut the tomato into wedges through the hole. See Knife School.",
+   "lineup": [
+    "4 ripe medium tomatoes, cored and cut into wedges",
+    "1/2 tsp salt",
+    "1 shallot, sliced thin",
+    "1 small garlic clove, minced",
+    "3 tbsp olive oil",
+    "1 tbsp red wine vinegar",
+    "1 handful fresh basil leaves, torn",
+    "Black pepper"
+   ],
+   "steps": [
+    "Put the tomatoes in the bowl and toss with the salt.",
+    "Add the shallot, garlic, oil and vinegar. Toss gently.",
+    "Let sit 20 minutes at room temperature.",
+    "Add the basil and pepper. Taste, then add salt until the tomatoes taste like more of themselves."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Already there, if you skip the bread."
+    ],
+    [
+     "Beef It Up",
+     "Add a ball of fresh mozzarella, torn, or a drained can of white beans."
+    ],
+    [
+     "Future You",
+     "Eat within a few hours. Do not refrigerate."
+    ],
+    [
+     "Show Off",
+     "Use a mix of colors and sizes of tomato."
+    ],
+    [
+     "Flavor Bomb",
+     "Spoon it over toast spread with eggplant spread, 'nduja or Garlic Aioli."
+    ],
+    [
+     "Heat Dial",
+     "Mild: as written. Warm: a pinch of red pepper flakes. Hot: 1 tsp of Calabrian chili paste stirred into the oil."
+    ]
+   ]
+  },
+  {
+   "slug": "bowl-pickles",
+   "title": "Bowl Pickles",
+   "chapter": 7,
+   "tagline": "Pickles by dinnertime. No canning, no boiling, no fear.",
+   "time": "10 MIN, PLUS 30 MIN SOAKING",
+   "serves": "MAKES ABOUT 1 PINT",
+   "level": "CHEF'S KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL (MANDOLINE OPTIONAL)",
+   "protein": false,
+   "heat": 1,
+   "gist": "Quick refrigerator pickles made without heating the brine. Whisking dissolves the sugar and salt in cold water and vinegar just fine; it only takes a minute longer. Slice the cucumbers thin and they are ready in half an hour, tangy and crisp. The same brine works on radishes, carrots, shallots and jalapenos.",
+   "move_title": "thin, even coins",
+   "move": "Claw grip, knife tip on the board, and let the blade rock forward through each slice. Aim for coins you can almost see through. A mandoline with its guard does this in seconds. See Knife School.",
+   "lineup": [
+    "1/2 cup white or rice vinegar",
+    "1/2 cup cold water",
+    "1 tbsp sugar",
+    "1 1/2 tsp salt",
+    "1 garlic clove, smashed",
+    "1 tsp dried dill or mustard seed",
+    "4 Persian cucumbers, sliced into thin coins",
+    "1 shallot, sliced into thin rings"
+   ],
+   "steps": [
+    "Whisk the vinegar, water, sugar and salt in the bowl until the grains are completely dissolved, about a minute.",
+    "Add the garlic and dill.",
+    "Add the cucumbers and shallot and press them under the brine.",
+    "Let sit 30 minutes, stirring once.",
+    "Move to a jar with the brine and refrigerate."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Leave out the sugar, or use a sugar-free sweetener."
+    ],
+    [
+     "Future You",
+     "Keeps 2 weeks in the fridge, and gets more sour as it goes."
+    ],
+    [
+     "Show Off",
+     "Make a second jar with carrot matchsticks, radish coins and a sliced jalapeno. That jar is halfway to the Banh Mi Chop."
+    ],
+    [
+     "Flavor Bomb",
+     "Add a few black peppercorns and a strip of lemon zest to the brine, or a smashed slice of fresh ginger for an Asian-style pickle."
+    ],
+    [
+     "Heat Dial",
+     "Mild: as written. Warm: a pinch of red pepper flakes in the brine. Hot: a sliced jalapeno or serrano pickled right in with the cucumbers."
+    ],
+    [
+     "Keep Your Fingers",
+     "On a mandoline, guard and glove, every time."
+    ]
+   ]
+  },
+  {
+   "slug": "watermelon-feta-and-mint",
+   "title": "Watermelon, Feta and Mint",
+   "chapter": 10,
+   "tagline": "Sweet, salty, cold. The three food groups of July.",
+   "time": "15 MIN",
+   "serves": "SERVES 4 TO 6 (ONE WHOLE MINI WATERMELON)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 1,
+   "gist": "A salad from the eastern Mediterranean, where watermelon and salty white cheese have been eaten together for centuries. Cold, sweet melon against briny feta and fresh mint is one of the great combinations. A mini watermelon, the size of a bowling ball, is the whole-item answer to the problem of half a melon in the fridge.",
+   "move_title": "taking down a melon",
+   "move": "Slice off both ends so it stands flat. Cut downward, following the curve, to remove the rind in strips. Halve the peeled melon, lay each half flat side down, and cut into planks, sticks, then cubes. See Knife School.",
+   "lineup": [
+    "1 mini seedless watermelon, rind removed, cut into 3/4 inch cubes",
+    "4 oz feta, crumbled or cubed",
+    "1 large handful fresh mint leaves, torn",
+    "1 shallot, sliced paper thin (optional)",
+    "2 tbsp olive oil",
+    "1 tbsp lime juice",
+    "Flaky salt and black pepper"
+   ],
+   "steps": [
+    "Put the watermelon in the bowl and pour off any juice that collects.",
+    "Add the oil and lime juice and toss gently.",
+    "Add the feta, mint and shallot. Fold once or twice.",
+    "Finish with a pinch of flaky salt and a few grinds of pepper."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Watermelon is one of the lower-sugar fruits, but this is lighter, not low. A smaller scoop over arugula stretches it."
+    ],
+    [
+     "Beef It Up",
+     "Add 3 oz of torn prosciutto."
+    ],
+    [
+     "Future You",
+     "Cube the melon a day ahead and keep it cold. Dress it at the last minute; it goes watery fast."
+    ],
+    [
+     "Show Off",
+     "Add a diced Persian cucumber and a handful of pitted kalamata olives."
+    ],
+    [
+     "Flavor Bomb",
+     "A dusting of chili-lime seasoning, a drizzle of balsamic glaze, or a thread of Hot Honey over the feta."
+    ],
+    [
+     "Heat Dial",
+     "Mild: as written. Warm: chili-lime seasoning or Hot Honey. Hot: thin slices of fresh jalapeno. Sweet, salty and hot is a very good idea here."
+    ],
+    [
+     "Keep Your Fingers",
+     "A round melon on a wet board is the most dangerous thing in this chapter. Towel under the board, flat ends cut first, and a grown-up for the first cuts."
+    ]
+   ]
+  },
+  {
+   "slug": "fruit-chop-with-lime-honey-and-chili",
+   "title": "Fruit Chop with Lime, Honey and Chili",
+   "chapter": 10,
+   "tagline": "Fruit salad, but it went on vacation to Mexico.",
+   "time": "15 MIN",
+   "serves": "SERVES 4",
+   "level": "BUTTER KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 2,
+   "gist": "Street vendors all over Mexico sell cups of cut fruit with lime juice, salt and chile powder, and once you have had fruit that way, plain fruit salad seems to be missing something. The salt and chile make the fruit taste sweeter, not hot. Use whatever is ripe; the dressing is the recipe.",
+   "move_title": "peeling a kiwi with a spoon",
+   "move": "Cut off both ends, slide a spoon between the skin and the flesh, and run it all the way around. The kiwi slides out whole. See Knife School.",
+   "lineup": [
+    "1 ripe mango, diced",
+    "1 pint strawberries, hulled and quartered",
+    "2 kiwis, peeled and diced",
+    "1 container (6 oz) blueberries",
+    "2 tbsp lime juice",
+    "1 tbsp honey",
+    "1/2 tsp chili-lime seasoning, such as Tajin, plus more for the top",
+    "Pinch of salt"
+   ],
+   "steps": [
+    "Whisk the lime juice, honey, chili-lime seasoning and salt in the bottom of the bowl.",
+    "Add all the fruit and toss gently.",
+    "Taste, then add lime or honey until it tastes right to you.",
+    "Dust the top with a little more seasoning."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Use the strawberries and blueberries only, and skip the honey. Berries are the lowest-sugar fruits."
+    ],
+    [
+     "Beef It Up",
+     "Spoon it over plain Greek yogurt or cottage cheese."
+    ],
+    [
+     "Future You",
+     "Keeps 1 day in the fridge. Berries soften after that."
+    ],
+    [
+     "Show Off",
+     "Add a handful of torn mint and diced jicama for crunch."
+    ],
+    [
+     "Flavor Bomb",
+     "Swap the honey for Hot Honey, or add a splash of chamoy if you can find it."
+    ],
+    [
+     "Heat Dial",
+     "Mild: leave out the chili-lime seasoning and use a pinch of salt. Warm: as written. Hot: a pinch of cayenne and Hot Honey."
+    ],
+    [
+     "Psst",
+     "Butter Knife cooks can make all of this except the mango, which needs a sharp knife and a grown-up."
+    ]
+   ]
+  },
+  {
+   "slug": "apple-nachos",
+   "title": "Apple Nachos",
+   "chapter": 10,
+   "tagline": "Dessert pretending to be a snack pretending to be fruit.",
+   "time": "10 MIN",
+   "serves": "SERVES 2 (DOUBLE FOR 4)",
+   "level": "PARING KNIFE LEVEL",
+   "tools": "KNIFE, BOARD, BOWL",
+   "protein": false,
+   "heat": 0,
+   "gist": "Thin apple slices fanned out like tortilla chips and drizzled with loosened peanut butter, then scattered with whatever crunchy, sweet things are in the pantry. Kids build their own and eat a whole apple without noticing. The trick for the drizzle is a spoonful of warm tap water whisked into the peanut butter until it pours.",
+   "move_title": "thin apple slices",
+   "move": "Cut the four cheeks off the core, lay each flat side down, and slice across into thin half-moons, as even as you can. See Knife School.",
+   "lineup": [
+    "2 crisp apples, sliced thin",
+    "1 tsp lemon juice",
+    "2 tbsp creamy peanut butter",
+    "1 to 2 tbsp warm tap water",
+    "1 tsp honey",
+    "2 tbsp granola",
+    "1 tbsp mini chocolate chips",
+    "1 tbsp roasted peanuts or sunflower seeds, chopped"
+   ],
+   "steps": [
+    "Toss the apple slices with the lemon juice and fan them out on a plate or the board.",
+    "Whisk the peanut butter, honey and 1 tbsp of warm water in the bowl. Add more water until it drizzles off the spoon.",
+    "Drizzle the peanut butter over the apples.",
+    "Scatter the granola, chocolate chips and peanuts on top."
+   ],
+   "extras": [
+    [
+     "Dodge the Carbs",
+     "Skip the honey, granola and chocolate, use natural peanut butter, and top with chopped nuts and unsweetened coconut. Lighter, not low."
+    ],
+    [
+     "Beef It Up",
+     "Swap half the peanut butter drizzle for plain Greek yogurt."
+    ],
+    [
+     "Future You",
+     "Make it and eat it. The lemon juice buys about an hour before the apples brown."
+    ],
+    [
+     "Show Off",
+     "Add a drizzle of caramel sauce and a pinch of flaky salt."
+    ],
+    [
+     "Flavor Bomb",
+     "A dusting of cinnamon, or swap the honey in the drizzle for Hot Honey and finish with chili-lime seasoning for a sweet-hot version."
+    ],
+    [
+     "Psst",
+     "For a nut-free table, use sunflower seed butter and seeds."
+    ]
+   ]
+  }
+ ],
+ "home": [
+  "italian-chopped-sub",
+  "the-chopper",
+  "cobb-chop",
+  "steak-mexican-bowl",
+  "cowboy-caviar",
+  "shrimp-taco-chop",
+  "watermelon-feta-and-mint",
+  "classic-chicken-salad",
+  "cucumber-wrapped-sushi-rolls"
+ ],
+ "stills": [
+  "still-13",
+  "still-08",
+  "still-18",
+  "still-19",
+  "still-04",
+  "still-09"
+ ]
+}

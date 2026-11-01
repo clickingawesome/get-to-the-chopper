@@ -1,0 +1,132 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #f6f1e7;
+  --color-paper-deep: #ece4d3;
+  --color-ink: #1b1b1b;
+  --color-ink-soft: #4a4640;
+  --color-red: #c8321f;
+  --color-orange: #e8732a;
+  --color-ch1: #c8321f;
+  --color-ch2: #1f6f5c;
+  --color-ch3: #2f5d8a;
+  --color-ch4: #b7791f;
+  --color-ch5: #8a2e2e;
+  --color-ch6: #5a4a8a;
+  --color-ch7: #55602c;
+  --color-ch8: #d8342a;
+  --color-ch9: #8a5a12;
+  --color-ch10: #c97aa2;
+
+  --font-display: "Anton", "Impact", "Arial Narrow", sans-serif;
+  --font-body: "Nunito Sans", system-ui, sans-serif;
+  --font-hand: "Patrick Hand", "Comic Sans MS", cursive;
+  --font-stencil: "Stardos Stencil", "Anton", sans-serif;
+
+  --shadow-paper: 6px 6px 0 0 var(--color-ink);
+  --shadow-paper-sm: 3px 3px 0 0 var(--color-ink);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+.display {
+  font-family: var(--font-display);
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
+  line-height: 0.92;
+}
+
+.hand {
+  font-family: var(--font-hand);
+}
+
+.stencil {
+  font-family: var(--font-stencil);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.eyebrow {
+  font-family: var(--font-body);
+  font-weight: 800;
+  font-size: 0.72rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+}
+
+/* cut-paper card */
+.paper-card {
+  background: #fff;
+  border: 2px solid var(--color-ink);
+  box-shadow: var(--shadow-paper);
+}
+
+.pattern-band {
+  background-image: url("/img/spot-22.jpg");
+  background-size: 420px;
+  background-repeat: repeat;
+}
+
+.tilt-l { transform: rotate(-2deg); }
+.tilt-r { transform: rotate(1.5deg); }
+
+.hover-lift {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.hover-lift:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 8px 8px 0 0 var(--color-ink);
+}
+
+.badge-soon {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--color-ink);
+  color: var(--color-paper);
+  font-family: var(--font-stencil);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  padding: 0.55rem 1rem;
+  border: 2px solid var(--color-ink);
+  box-shadow: 4px 4px 0 0 var(--color-red);
+}
+
+.step-num {
+  font-family: var(--font-display);
+  font-size: 2.25rem;
+  line-height: 1;
+  color: var(--color-red);
+}
+
+ol.steps {
+  counter-reset: step;
+}
+ol.steps > li {
+  counter-increment: step;
+  position: relative;
+  padding-left: 3.25rem;
+}
+ol.steps > li::before {
+  content: counter(step);
+  position: absolute;
+  left: 0;
+  top: -0.15rem;
+  font-family: var(--font-display);
+  font-size: 2rem;
+  line-height: 1;
+  color: var(--chapter, var(--color-red));
+}
+
+.underline-marker {
+  background-image: linear-gradient(transparent 62%, color-mix(in srgb, var(--color-orange) 55%, transparent) 62%);
+}
