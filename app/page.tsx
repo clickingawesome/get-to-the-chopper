@@ -76,7 +76,7 @@ export default function Home() {
                   Chopper
                 </span>
                 <span className="hand text-base leading-tight text-white drop-shadow-[1px_1px_0_#1b1b1b] sm:text-lg">
-                  116 no-cook chopped recipes
+                  115+ no-cook chopped recipes
                 </span>
               </div>
             </div>
@@ -128,7 +128,7 @@ export default function Home() {
         <div className="flex flex-wrap items-end justify-between gap-4">
           <div>
             <p className="eyebrow text-red">Ten chapters</p>
-            <h2 className="display mt-2 text-5xl sm:text-6xl">116 recipes. Zero burners.</h2>
+            <h2 className="display mt-2 text-5xl sm:text-6xl">115+ recipes. Zero burners.</h2>
           </div>
           <Link href="/chapters/" className="text-sm font-extrabold uppercase tracking-[0.15em] underline hover:text-red">
             See the chapter map
@@ -197,7 +197,7 @@ export default function Home() {
             <p className="eyebrow text-red">About the author</p>
             <h2 className="display mt-2 text-4xl sm:text-5xl">{AUTHOR}</h2>
             <p className="mt-4 max-w-2xl text-lg leading-relaxed text-ink-soft">
-              Nick Irmo is a marketer and a home cook. Get to the Chopper collects 116 recipes that need a knife, a board and a
+              Nick Irmo is a marketer and a home cook. Get to the Chopper collects 115+ recipes that need a knife, a board and a
               bowl, and never a stove: chopped sandwiches, the classic salads, the deli case, bowls from around the world and a
               chapter of sweet chops to finish.
             </p>

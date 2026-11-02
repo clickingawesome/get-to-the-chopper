@@ -12,7 +12,7 @@ export default function RecipesPage() {
   return (
     <div className="mx-auto max-w-6xl px-4 py-12 sm:px-6 md:py-16">
       <p className="eyebrow text-red">The recipes</p>
-      <h1 className="display mt-2 text-5xl sm:text-7xl">All 116, chapter by chapter.</h1>
+      <h1 className="display mt-2 text-5xl sm:text-7xl">All 115+, chapter by chapter.</h1>
       <p className="hand mt-3 max-w-2xl text-2xl text-ink-soft">
         Thirty are here in full, with photos. The rest are listed so you know what is coming.
       </p>

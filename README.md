@@ -1,7 +1,7 @@
 # Get to the Chopper — promo site
 
 Promotional website for the cookbook **Get to the Chopper** by Nick Irmo:
-116 no-cook chopped recipes made with a knife, a board and a bowl. The book is
+115+ no-cook chopped recipes made with a knife, a board and a bowl. The book is
 coming soon on Amazon (KDP); the site has no buy link yet, just a
 "Coming soon on Amazon" badge.
 
@@ -11,7 +11,7 @@ static site (`output: 'export'`) for Netlify.
 ## Pages
 
 - `/` — hero, "what is a chop" explainer, chapter tiles, featured recipes, lifestyle stills, author blurb
-- `/recipes/` — all 116 recipe titles by chapter, 30 featured with photos
+- `/recipes/` — all 115+ recipe titles by chapter, 30 featured with photos
 - `/recipes/<slug>/` — 30 full recipe pages (lineup, steps, the move, extras, JSON-LD)
 - `/chapters/` — the ten chapters with opener art
 - `/sitemap.xml`, `/robots.txt`

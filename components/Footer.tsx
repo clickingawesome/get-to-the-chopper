@@ -25,7 +25,7 @@ export default function Footer() {
           <p className="eyebrow text-paper/60">The book</p>
           <ul className="mt-3 space-y-2 font-bold">
             <li>By {AUTHOR}</li>
-            <li>116 recipes, 10 chapters</li>
+            <li>115+ recipes, 10 chapters</li>
             <li>Every one of them no-cook</li>
             <li>Serves 2. Double for 4.</li>
           </ul>
