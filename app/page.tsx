@@ -64,21 +64,13 @@ export default function Home() {
             <div className="tilt-r relative w-64 border-[3px] border-ink bg-white p-2 shadow-paper sm:w-80 md:w-[22rem]">
               <img
                 src="/img/cover.jpg"
-                alt="Get to the Chopper book cover: a chopped salad on an orange background"
-                width={900}
-                height={1200}
+                srcSet="/img/cover-sm.jpg 480w, /img/cover.jpg 1200w"
+                sizes="(min-width: 768px) 22rem, (min-width: 640px) 20rem, 16rem"
+                alt="Get to the Chopper by Nick Irmo: a cartoon orange helicopter chasing a field of running vegetables, with a 115+ no-cook recipes sticker"
+                width={1200}
+                height={1500}
                 className="block w-full"
               />
-              <div className="absolute inset-x-2 top-2 flex flex-col items-start gap-1 p-4 sm:p-5">
-                <span className="display text-3xl leading-none text-white drop-shadow-[2px_2px_0_#1b1b1b] sm:text-4xl">
-                  Get to the
-                  <br />
-                  Chopper
-                </span>
-                <span className="hand text-base leading-tight text-white drop-shadow-[1px_1px_0_#1b1b1b] sm:text-lg">
-                  115+ no-cook chopped recipes
-                </span>
-              </div>
             </div>
           </div>
         </div>
