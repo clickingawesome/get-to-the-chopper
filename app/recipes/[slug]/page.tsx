@@ -1,3 +1,4 @@
+import BuyButton from "@/components/BuyButton";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -167,7 +168,7 @@ export default async function RecipePage({ params }: Props) {
         </section>
 
         <p className="mt-14 text-center">
-          <span className="badge-soon">Coming soon on Amazon</span>
+          <BuyButton label="Get the book on Amazon" />
         </p>
       </div>
     </article>

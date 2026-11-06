@@ -1,3 +1,4 @@
+import BuyButton from "@/components/BuyButton";
 import Link from "next/link";
 import RecipeCard from "@/components/RecipeCard";
 import ChapterTile from "@/components/ChapterTile";
@@ -48,10 +49,7 @@ export default function Home() {
             </h1>
             <p className="hand mt-6 max-w-md text-2xl leading-tight sm:text-3xl">{TAGLINE}</p>
             <div className="mt-8 flex flex-wrap items-center gap-4">
-              <span className="badge-soon">
-                <span className="h-2 w-2 rounded-full bg-orange" aria-hidden />
-                Coming soon on Amazon
-              </span>
+              <BuyButton />
               <Link
                 href="/recipes/"
                 className="border-2 border-ink bg-paper px-5 py-3 text-sm font-extrabold uppercase tracking-[0.15em] shadow-paper-sm hover:bg-white"

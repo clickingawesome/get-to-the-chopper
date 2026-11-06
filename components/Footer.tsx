@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { AUTHOR, SITE_NAME, TAGLINE } from "@/lib/site";
+import { AMAZON_URL, AUTHOR, AVAILABLE, SITE_NAME, TAGLINE } from "@/lib/site";
 
 export default function Footer() {
   return (
@@ -8,8 +8,12 @@ export default function Footer() {
         <div>
           <p className="display text-4xl leading-none">{SITE_NAME}</p>
           <p className="hand mt-2 text-xl text-paper/80">{TAGLINE}</p>
-          <p className="mt-6 inline-block border border-paper/40 px-3 py-1 text-xs font-extrabold uppercase tracking-[0.2em]">
-            Coming soon on Amazon
+          <p className="mt-6">
+            {AVAILABLE ? (
+              <a href={AMAZON_URL} target="_blank" rel="noopener" className="inline-block border border-paper/60 px-4 py-2 text-xs font-extrabold uppercase tracking-[0.2em] hover:bg-paper hover:text-ink">Buy on Amazon &rarr;</a>
+            ) : (
+              <span className="inline-block border border-paper/40 px-3 py-1 text-xs font-extrabold uppercase tracking-[0.2em]">Coming soon on Amazon</span>
+            )}
           </p>
         </div>
         <div>

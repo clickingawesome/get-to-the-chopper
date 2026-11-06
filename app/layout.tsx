@@ -9,7 +9,7 @@ import "@fontsource/stardos-stencil/700.css";
 import "./globals.css";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
-import { AUTHOR, SITE_NAME, SITE_URL, TAGLINE } from "@/lib/site";
+import { AUTHOR, SITE_NAME, SITE_URL, TAGLINE, AVAILABLE } from "@/lib/site";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -17,13 +17,13 @@ export const metadata: Metadata = {
     default: `${SITE_NAME} — ${TAGLINE}`,
     template: `%s — ${SITE_NAME}`,
   },
-  description: `${SITE_NAME} by ${AUTHOR}: 115+ no-cook chopped recipes made with a knife, a board and a bowl. Coming soon on Amazon.`,
+  description: `${SITE_NAME} by ${AUTHOR}: 115+ no-cook chopped recipes made with a knife, a board and a bowl. ${AVAILABLE ? "Available now on Amazon." : "Coming soon on Amazon."}`,
   authors: [{ name: AUTHOR }],
   openGraph: {
     type: "website",
     siteName: SITE_NAME,
     title: `${SITE_NAME} — ${TAGLINE}`,
-    description: `115+ no-cook chopped recipes by ${AUTHOR}. Coming soon on Amazon.`,
+    description: `115+ no-cook chopped recipes by ${AUTHOR}. ${AVAILABLE ? "Available now on Amazon." : "Coming soon on Amazon."}`,
     images: [{ url: "/img/og-cover.jpg", width: 1200, height: 630, alt: `${SITE_NAME} cover` }],
   },
   twitter: { card: "summary_large_image" },
