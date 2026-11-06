@@ -9,3 +9,28 @@
   for = "/img/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
+
+# Send the second domain to the main one
+[[redirects]]
+  from = "https://gettothechopperbook.com/*"
+  to = "https://choppedrecipes.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.gettothechopperbook.com/*"
+  to = "https://choppedrecipes.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://gettothechopperbook.com/*"
+  to = "https://choppedrecipes.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.gettothechopperbook.com/*"
+  to = "https://choppedrecipes.com/:splat"
+  status = 301
+  force = true
