@@ -3,9 +3,20 @@ import Link from "next/link";
 import RecipeCard from "@/components/RecipeCard";
 import { chapters, pad, recipesForChapter } from "@/lib/data";
 
+const description = "Every recipe in Get to the Chopper, chapter by chapter, with 30 featured recipes in full. All no-cook. Knife, board, bowl.";
+
 export const metadata: Metadata = {
   title: "Recipes",
-  description: "Every recipe in Get to the Chopper, chapter by chapter, with 30 featured recipes in full. All no-cook. Knife, board, bowl.",
+  description,
+  alternates: { canonical: "/recipes/" },
+  openGraph: {
+    type: "website",
+    siteName: "Get to the Chopper",
+    title: "Recipes — Get to the Chopper",
+    description,
+    url: "/recipes/",
+    images: [{ url: "/og/site.jpg", width: 1200, height: 630, alt: "Get to the Chopper by Nick Irmo" }],
+  },
 };
 
 export default function RecipesPage() {

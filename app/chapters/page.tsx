@@ -2,9 +2,20 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { chapters, openerSrc, pad } from "@/lib/data";
 
+const description = "The ten chapters of Get to the Chopper: chopped sandwiches, the classics, the deli case, around the world, bring your own protein and carbs, slaws and pickles, salsas and dips, the dressing room, and sweet chops.";
+
 export const metadata: Metadata = {
   title: "Chapters",
-  description: "The ten chapters of Get to the Chopper: chopped sandwiches, the classics, the deli case, around the world, bring your own protein and carbs, slaws and pickles, salsas and dips, the dressing room, and sweet chops.",
+  description,
+  alternates: { canonical: "/chapters/" },
+  openGraph: {
+    type: "website",
+    siteName: "Get to the Chopper",
+    title: "Chapters — Get to the Chopper",
+    description,
+    url: "/chapters/",
+    images: [{ url: "/og/site.jpg", width: 1200, height: 630, alt: "Get to the Chopper by Nick Irmo" }],
+  },
 };
 
 export default function ChaptersPage() {

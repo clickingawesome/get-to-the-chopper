@@ -27,8 +27,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: "article",
       title: `${r.title} — ${SITE_NAME}`,
       description,
-      images: [{ url: heroSrc(r.slug), width: 900, height: 1200, alt: r.title }],
+      url: `/recipes/${r.slug}/`,
+      siteName: SITE_NAME,
+      images: [{ url: `/og/${r.slug}.jpg`, width: 1200, height: 630, alt: `${r.title}: ${r.tagline}` }],
     },
+    alternates: { canonical: `/recipes/${r.slug}/` },
   };
 }
 
